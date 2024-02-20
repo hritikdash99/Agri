@@ -10,7 +10,7 @@ with open('weather_model.pkl', 'rb') as f:
 # Define a route to render the HTML page
 @app.route('/')
 def index():
-    return render_template('tstweb.html')
+    return render_template('weather.html')
 
 # Define a route to handle prediction request
 @app.route('/predict', methods=['POST'])
