@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PEST ESTIMATOR AND AIDS</title>
+<style>
+  body {
+    font-family: Arial, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #153d02;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    height: 12vh;
+    position: relative;
+    
+  }
+  h1{
+    clear: both;
+  }
+  #logo {
+    position: absolute;
+    float: left;
+    clear: both;
+    margin-right: 20px;
+    top: 23px;
+    left: 25px;
+    width: 200px;
+    height:150px;
+    transform: scale(1.3);
+  }
+  main {
+    margin: 20px auto;
+    width: 80%;
+    text-align: right;
+}
+  #weatherForm{
+    line-height: 30px;
+  }
+
+  input {
+    width: 200px;
+            padding: 10px;
+            margin: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+   ;
+  }
+  .input-label {
+    margin-bottom: 20px;
+  }
+  button{
+    background-color: rgb(112, 167, 31);
+    
+  }
+  #output {
+    margin: 0px;
+    display: grid;
+    justify-content: center;
+    align-items: start;    
+  }
+  #output-image {
+    width: 200px;
+    height: 200px;
+    margin: 10px 0;
+  }
+  footer {
+    background-color: #153d02;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+    width: 100%;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>PEST ESTIMATOR AND AIDS</h1>
+  <img src="https://webstockreview.net/images/grasshopper-clipart-invertebrate-10.png" alt="Logo" id="logo">
+  
+</header>
+<main>
+    <form id="weatherForm">
+        <label for="temperature">Today's Temperature:</label><br>
+        <input type="number" id="temperature" name="temperature" required><br>
+
+        <label for="humidity">Today's Humidity:</label><br>
+        <input type="number" id="humidity" name="humidity" required><br>
+
+        <label for="soil_moisture">Soil Moisture (%):</label><br>
+        <input type="number" id="soil-moisture" name="soil_moisture" required><br>
+
+        <button type="button" onclick="estimatePest()">Estimate</button>
+    </form>
+
+    <div id="EstimatedPest"></div>
+</main>
+<div id="output">
+  <div id="pest-output">Aasdfgh</div>
+  <img src="https://tse2.mm.bing.net/th?id=OIP.hD-gKRxugqIkXH2efTwh7QHaFj&pid=Api&P=0&h=180" alt="Pest Image" id="output-image">
+</div>
+
+<footer>
+    <p>&copy; 2024 Semicolon. All rights reserved.</p>
+</footer>
+<script>
+  function estimatePest() {
+    // Get input values
+    var temperature = document.getElementById("temperature").value;
+    var humidity = document.getElementById("humidity").value;
+    var soilMoisture = document.getElementById("soil-moisture").value;
+
+    // Send input values to the server for estimation
+    fetch('/predict', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({temperature: temperature, humidity: humidity, soil_moisture: soilMoisture})
+    })
+    .then(response => response.json())
+    .then(data => {
+        // Display the estimated pest, image, and recommendations
+        document.getElementById('pest-output').innerText = 'Estimated Pest: ' + data.prediction;
+        document.getElementById('output-image').src = data.image;
+        document.getElementById('output-image').alt = data.prediction + ' Image';
+        document.getElementById('EstimatedPest').innerText = 'Recommendations: ' + data.recommendations;
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Yield Prediction</title>
+</head>
+<body>
+    <h1>Crop Yield Prediction</h1>
+    <form id="prediction-form">
+        <label for="Soil Quality">Soil Quality:</label>
+        <input type="text" name="Soil Quality" id="soil-quality" required><br>
+        <label for="Temperature">Temperature:</label>
+        <input type="text" name="Temperature" id="temperature" required><br>
+        <label for="Rainfall">Rainfall:</label>
+        <input type="text" name="Rainfall" id="rainfall" required><br>
+        <label for="Pest and Disease Management">Pest and Disease Management:</label>
+        <input type="text" name="Pest and Disease Management" id="pest-management" required><br>
+        <label for="Weed Control">Weed Control:</label>
+        <input type="text" name="Weed Control" id="weed-control" required><br>
+        <label for="Crop Health">Crop Health:</label>
+        <input type="text" name="Crop Health" id="crop-health" required><br>
+        <input type="button" value="Predict" onclick="predict()">
+    </form>
+    <div id="prediction-result"></div>
+
+    <script>
+        function predict() {
+            var formData = {
+                'Soil Quality': document.getElementById('soil-quality').value,
+                'Temperature': document.getElementById('temperature').value,
+                'Rainfall': document.getElementById('rainfall').value,
+                'Pest and Disease Management': document.getElementById('pest-management').value,
+                'Weed Control': document.getElementById('weed-control').value,
+                'Crop Health': document.getElementById('crop-health').value
+            };
+
+            // Send a POST request to the server with form data
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display the prediction result
+                document.getElementById('prediction-result').innerHTML = '<h2>Predicted Crop Yield Percentage:</h2><p>' + data.prediction + '</p>';
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,5001 @@
+Soil_Moisture (%),Temperature (°C),Humidity (%),Pest_Disease_Type
+48,25,60,Leafhoppers
+39,26,62,Birds
+80,28,74,Leafhoppers
+68,31,71,Earworms
+48,31,73,Stem Borers
+37,28,60,Blast
+75,30,72,Earworms
+79,33,72,Stem Borers
+66,33,70,Earworms
+42,26,67,Aphids
+80,28,73,Downy Mildew
+51,27,61,Grasshoppers
+67,33,74,Stem Borers
+49,26,72,Downy Mildew
+74,34,75,Stem Borers
+66,33,71,Downy Mildew
+79,32,72,Aphids
+76,32,73,Stem Borers
+60,27,65,Downy Mildew
+70,27,69,Earworms
+53,27,63,Blast
+77,33,72,Blast
+64,34,75,Aphids
+54,26,70,Leafhoppers
+54,33,64,Downy Mildew
+45,28,63,Downy Mildew
+64,34,72,Aphids
+57,31,61,Leafhoppers
+71,34,75,Stem Borers
+63,33,69,Blast
+35,26,64,Blast
+45,29,64,Stem Borers
+67,34,74,Aphids
+74,34,74,Aphids
+67,34,73,Aphids
+77,32,73,Blast
+53,28,63,Blast
+48,28,64,Grasshoppers
+48,28,63,Blast
+44,28,60,Blast
+76,34,71,Stem Borers
+50,29,61,Leafhoppers
+51,32,71,Blast
+66,34,72,Earworms
+43,25,64,Grasshoppers
+67,32,70,Stem Borers
+76,34,72,Stem Borers
+78,30,74,Downy Mildew
+52,33,72,Downy Mildew
+63,34,68,Leafhoppers
+58,27,65,Blast
+45,26,63,Blast
+77,33,71,Stem Borers
+69,32,73,Stem Borers
+58,26,65,Leafhoppers
+52,27,65,Birds
+45,25,67,Grasshoppers
+55,29,62,Grasshoppers
+37,31,63,Blast
+45,28,65,Birds
+78,32,74,Earworms
+77,33,74,Stem Borers
+69,34,72,Earworms
+74,33,70,Stem Borers
+66,31,68,Leafhoppers
+40,28,66,Grasshoppers
+43,30,63,Downy Mildew
+56,32,70,Blast
+73,33,70,Earworms
+80,34,75,Stem Borers
+42,28,68,Downy Mildew
+74,31,74,Earworms
+67,34,72,Stem Borers
+35,27,60,Blast
+58,30,72,Earworms
+55,33,75,Downy Mildew
+51,33,70,Earworms
+66,33,71,Earworms
+71,32,73,Earworms
+45,27,65,Grasshoppers
+58,28,62,Birds
+45,28,67,Birds
+67,31,64,Blast
+41,28,61,Grasshoppers
+46,28,61,Grasshoppers
+53,27,64,Downy Mildew
+72,32,72,Stem Borers
+54,33,70,Downy Mildew
+41,27,62,Birds
+67,32,72,Earworms
+80,34,71,Stem Borers
+54,27,62,Downy Mildew
+51,34,62,Downy Mildew
+48,28,66,Downy Mildew
+55,30,69,Leafhoppers
+80,32,75,Downy Mildew
+43,33,70,Blast
+55,29,61,Downy Mildew
+78,34,73,Aphids
+47,27,66,Grasshoppers
+41,26,65,Birds
+71,32,74,Aphids
+68,32,74,Stem Borers
+73,29,65,Downy Mildew
+72,34,71,Earworms
+47,32,73,Leafhoppers
+42,25,60,Birds
+48,34,67,Stem Borers
+59,27,67,Birds
+77,34,73,Downy Mildew
+78,32,68,Stem Borers
+66,32,74,Stem Borers
+44,27,65,Downy Mildew
+41,28,65,Blast
+73,34,73,Blast
+65,31,67,Blast
+49,27,62,Birds
+46,34,66,Blast
+50,27,67,Downy Mildew
+72,30,72,Leafhoppers
+49,28,68,Downy Mildew
+55,27,73,Downy Mildew
+53,34,71,Blast
+52,28,68,Downy Mildew
+55,30,61,Leafhoppers
+78,32,70,Earworms
+38,33,69,Earworms
+43,28,65,Downy Mildew
+73,34,70,Earworms
+76,34,71,Stem Borers
+50,27,66,Downy Mildew
+48,28,65,Grasshoppers
+78,31,70,Leafhoppers
+77,31,71,Earworms
+44,28,65,Downy Mildew
+44,26,64,Grasshoppers
+37,28,64,Birds
+80,34,75,Aphids
+80,33,73,Aphids
+80,32,72,Stem Borers
+44,27,60,Blast
+80,34,75,Downy Mildew
+68,33,72,Aphids
+53,32,63,Downy Mildew
+80,33,75,Aphids
+69,32,69,Earworms
+75,31,72,Earworms
+73,32,71,Stem Borers
+54,32,71,Leafhoppers
+46,34,72,Blast
+63,32,71,Earworms
+71,33,74,Aphids
+67,34,74,Earworms
+36,26,63,Grasshoppers
+74,32,73,Aphids
+47,27,64,Downy Mildew
+41,27,63,Downy Mildew
+43,29,70,Downy Mildew
+48,30,63,Grasshoppers
+35,25,60,Blast
+75,33,71,Earworms
+45,27,64,Grasshoppers
+57,33,74,Birds
+74,33,71,Grasshoppers
+65,27,65,Blast
+76,26,63,Blast
+42,28,66,Grasshoppers
+50,26,62,Leafhoppers
+70,34,71,Earworms
+52,30,64,Grasshoppers
+49,25,63,Grasshoppers
+67,33,72,Earworms
+68,30,73,Blast
+49,31,61,Aphids
+38,28,75,Downy Mildew
+69,34,73,Stem Borers
+68,32,66,Aphids
+68,33,62,Blast
+80,34,75,Aphids
+55,34,73,Downy Mildew
+61,29,64,Birds
+72,33,72,Stem Borers
+80,31,73,Aphids
+70,26,66,Blast
+50,30,61,Leafhoppers
+54,26,66,Downy Mildew
+55,28,64,Downy Mildew
+43,29,66,Grasshoppers
+56,29,66,Birds
+70,33,70,Earworms
+73,34,70,Stem Borers
+76,34,73,Stem Borers
+57,31,64,Downy Mildew
+51,27,60,Downy Mildew
+53,27,67,Grasshoppers
+48,32,63,Blast
+46,28,64,Downy Mildew
+79,31,73,Aphids
+47,28,62,Downy Mildew
+41,31,71,Blast
+39,27,64,Downy Mildew
+45,28,60,Downy Mildew
+54,29,65,Grasshoppers
+41,34,75,Aphids
+53,28,71,Downy Mildew
+42,27,64,Blast
+40,28,65,Stem Borers
+72,28,62,Downy Mildew
+42,28,64,Birds
+55,33,72,Blast
+45,28,60,Birds
+67,33,72,Blast
+70,34,72,Aphids
+58,26,61,Birds
+80,34,72,Stem Borers
+48,28,66,Grasshoppers
+58,33,75,Downy Mildew
+57,34,74,Aphids
+43,28,64,Birds
+80,33,72,Stem Borers
+75,26,72,Blast
+41,27,62,Blast
+69,34,74,Stem Borers
+57,32,66,Downy Mildew
+52,30,72,Aphids
+50,34,66,Downy Mildew
+79,30,72,Downy Mildew
+42,27,68,Leafhoppers
+64,32,69,Leafhoppers
+47,25,62,Leafhoppers
+37,28,66,Grasshoppers
+46,28,63,Grasshoppers
+67,31,75,Aphids
+46,28,62,Leafhoppers
+73,32,73,Aphids
+55,34,74,Downy Mildew
+74,29,72,Blast
+45,28,62,Birds
+66,33,64,Blast
+50,28,65,Grasshoppers
+76,32,73,Aphids
+56,28,65,Blast
+74,34,74,Stem Borers
+70,33,75,Stem Borers
+52,28,64,Birds
+47,34,64,Downy Mildew
+44,27,63,Blast
+38,28,64,Blast
+68,26,74,Earworms
+35,27,60,Blast
+42,26,64,Downy Mildew
+52,27,62,Grasshoppers
+41,32,64,Aphids
+75,31,73,Aphids
+55,27,67,Leafhoppers
+80,34,75,Aphids
+72,32,70,Earworms
+37,27,61,Grasshoppers
+79,28,64,Downy Mildew
+80,34,73,Aphids
+80,34,66,Stem Borers
+59,30,73,Leafhoppers
+51,29,65,Downy Mildew
+80,32,71,Stem Borers
+42,27,64,Birds
+53,32,63,Blast
+44,30,61,Downy Mildew
+73,34,75,Stem Borers
+70,33,73,Stem Borers
+78,34,72,Stem Borers
+42,26,63,Grasshoppers
+56,29,65,Downy Mildew
+60,31,70,Earworms
+61,32,73,Downy Mildew
+59,33,70,Aphids
+58,28,63,Downy Mildew
+36,25,64,Downy Mildew
+38,27,62,Blast
+79,32,71,Stem Borers
+72,34,74,Aphids
+46,27,70,Blast
+71,34,72,Aphids
+77,34,75,Aphids
+57,30,66,Downy Mildew
+75,33,74,Downy Mildew
+51,28,63,Birds
+48,28,72,Blast
+45,27,62,Downy Mildew
+41,27,61,Blast
+78,34,70,Stem Borers
+74,33,71,Earworms
+45,31,62,Grasshoppers
+48,27,72,Blast
+79,34,71,Aphids
+67,32,70,Stem Borers
+67,32,75,Blast
+80,33,74,Downy Mildew
+51,27,66,Downy Mildew
+41,28,63,Grasshoppers
+51,28,62,Grasshoppers
+46,27,65,Grasshoppers
+80,30,65,Downy Mildew
+40,32,67,Aphids
+80,33,65,Downy Mildew
+73,34,72,Stem Borers
+49,28,64,Downy Mildew
+71,34,73,Stem Borers
+61,32,70,Earworms
+51,27,63,Birds
+49,26,64,Leafhoppers
+62,29,66,Downy Mildew
+63,34,70,Earworms
+52,27,64,Grasshoppers
+77,32,73,Stem Borers
+74,32,73,Downy Mildew
+71,34,72,Earworms
+75,34,72,Earworms
+51,25,62,Leafhoppers
+47,27,64,Blast
+80,30,73,Leafhoppers
+45,27,62,Grasshoppers
+47,27,60,Blast
+51,29,70,Blast
+50,30,63,Birds
+47,27,65,Grasshoppers
+80,34,73,Stem Borers
+42,28,61,Downy Mildew
+76,31,69,Leafhoppers
+53,28,68,Downy Mildew
+56,31,72,Leafhoppers
+76,29,75,Downy Mildew
+80,34,73,Downy Mildew
+71,33,71,Earworms
+65,28,62,Earworms
+73,27,61,Downy Mildew
+42,26,66,Earworms
+75,34,74,Stem Borers
+70,33,72,Stem Borers
+68,33,71,Aphids
+43,28,67,Downy Mildew
+50,32,70,Earworms
+71,34,71,Aphids
+35,25,70,Blast
+66,30,73,Leafhoppers
+50,27,60,Blast
+80,34,75,Downy Mildew
+53,28,66,Grasshoppers
+44,28,73,Blast
+40,28,65,Grasshoppers
+35,26,60,Birds
+69,34,69,Earworms
+78,34,71,Downy Mildew
+80,34,75,Aphids
+46,27,64,Downy Mildew
+46,26,61,Grasshoppers
+51,28,70,Downy Mildew
+65,34,75,Stem Borers
+69,31,73,Blast
+43,33,69,Blast
+79,32,72,Aphids
+41,25,60,Grasshoppers
+68,34,69,Earworms
+69,30,69,Earworms
+49,34,73,Downy Mildew
+52,33,65,Downy Mildew
+64,33,74,Stem Borers
+80,32,72,Stem Borers
+80,33,75,Downy Mildew
+67,34,73,Aphids
+71,33,74,Earworms
+39,28,66,Leafhoppers
+47,26,63,Leafhoppers
+40,27,60,Blast
+49,29,63,Grasshoppers
+51,29,66,Downy Mildew
+44,27,70,Stem Borers
+46,28,60,Blast
+78,33,71,Stem Borers
+74,32,69,Blast
+47,33,62,Downy Mildew
+71,30,67,Earworms
+45,26,65,Blast
+51,29,64,Grasshoppers
+75,31,72,Blast
+47,26,60,Birds
+45,32,72,Leafhoppers
+72,32,71,Earworms
+78,32,67,Earworms
+80,26,69,Leafhoppers
+70,33,74,Stem Borers
+69,34,73,Aphids
+42,27,63,Birds
+44,28,66,Grasshoppers
+69,32,69,Blast
+40,28,74,Aphids
+73,34,73,Downy Mildew
+42,29,61,Birds
+42,25,63,Blast
+72,33,73,Aphids
+46,28,60,Blast
+46,28,64,Grasshoppers
+54,27,74,Blast
+40,27,64,Downy Mildew
+48,28,61,Birds
+61,27,60,Leafhoppers
+74,33,75,Stem Borers
+57,32,71,Leafhoppers
+50,27,74,Earworms
+43,26,64,Birds
+78,34,70,Stem Borers
+51,27,60,Blast
+53,28,64,Downy Mildew
+76,34,71,Aphids
+71,32,63,Earworms
+47,28,63,Birds
+53,28,63,Leafhoppers
+75,34,72,Stem Borers
+68,32,69,Blast
+42,27,62,Blast
+80,29,72,Downy Mildew
+40,28,71,Blast
+80,32,73,Aphids
+74,33,72,Stem Borers
+74,34,71,Aphids
+70,33,70,Stem Borers
+51,27,63,Blast
+48,26,63,Birds
+73,28,71,Blast
+49,27,61,Downy Mildew
+53,27,72,Blast
+48,27,63,Downy Mildew
+45,28,61,Downy Mildew
+53,30,68,Downy Mildew
+52,28,72,Downy Mildew
+72,33,72,Stem Borers
+47,28,61,Grasshoppers
+60,28,64,Downy Mildew
+48,29,61,Birds
+43,33,69,Earworms
+71,28,69,Earworms
+39,26,61,Birds
+66,32,73,Aphids
+57,33,63,Leafhoppers
+38,27,61,Grasshoppers
+51,34,73,Earworms
+47,27,63,Grasshoppers
+69,34,70,Aphids
+77,34,73,Earworms
+45,30,64,Downy Mildew
+53,34,65,Blast
+60,25,61,Leafhoppers
+52,29,64,Downy Mildew
+41,28,62,Grasshoppers
+53,28,63,Grasshoppers
+43,27,65,Downy Mildew
+58,30,61,Birds
+40,25,62,Blast
+35,26,60,Grasshoppers
+48,32,64,Blast
+70,33,72,Blast
+61,31,72,Leafhoppers
+80,31,71,Leafhoppers
+71,33,66,Downy Mildew
+55,31,67,Leafhoppers
+45,32,64,Downy Mildew
+80,32,69,Leafhoppers
+74,34,71,Aphids
+61,31,60,Leafhoppers
+41,27,62,Leafhoppers
+58,29,66,Downy Mildew
+50,27,75,Blast
+72,32,71,Blast
+50,27,61,Blast
+52,26,64,Leafhoppers
+52,28,74,Downy Mildew
+77,33,75,Stem Borers
+35,25,66,Birds
+56,30,72,Leafhoppers
+71,32,74,Earworms
+52,28,60,Blast
+78,33,74,Blast
+42,28,65,Downy Mildew
+69,32,65,Blast
+48,27,64,Birds
+36,28,66,Downy Mildew
+80,34,75,Stem Borers
+46,26,62,Birds
+47,32,72,Blast
+57,28,62,Grasshoppers
+54,27,65,Blast
+80,34,75,Downy Mildew
+80,34,75,Earworms
+49,28,64,Blast
+67,33,75,Aphids
+57,28,63,Leafhoppers
+53,27,63,Birds
+42,26,70,Earworms
+51,27,62,Blast
+75,33,74,Aphids
+45,26,63,Grasshoppers
+42,27,63,Birds
+80,33,71,Aphids
+37,27,64,Grasshoppers
+56,31,67,Downy Mildew
+56,28,66,Birds
+46,28,65,Downy Mildew
+76,33,74,Leafhoppers
+72,32,72,Earworms
+51,27,62,Grasshoppers
+45,30,66,Birds
+39,27,62,Grasshoppers
+48,27,65,Birds
+44,25,65,Downy Mildew
+37,25,64,Blast
+52,28,69,Blast
+49,25,63,Leafhoppers
+42,30,64,Blast
+79,34,75,Aphids
+80,33,69,Aphids
+70,29,71,Blast
+40,28,62,Blast
+80,34,72,Earworms
+72,34,70,Stem Borers
+46,33,65,Downy Mildew
+60,28,75,Downy Mildew
+56,31,64,Leafhoppers
+44,25,65,Birds
+76,32,75,Stem Borers
+70,28,67,Downy Mildew
+75,32,71,Earworms
+80,33,67,Blast
+75,28,73,Earworms
+56,28,62,Grasshoppers
+46,28,63,Birds
+77,33,71,Downy Mildew
+50,27,62,Grasshoppers
+72,34,71,Aphids
+51,26,61,Leafhoppers
+46,27,61,Grasshoppers
+76,34,72,Aphids
+41,28,69,Blast
+69,31,71,Blast
+77,34,72,Aphids
+50,33,70,Blast
+52,29,62,Grasshoppers
+57,34,75,Downy Mildew
+74,32,72,Aphids
+58,29,63,Leafhoppers
+49,28,61,Downy Mildew
+80,34,69,Aphids
+46,27,67,Grasshoppers
+46,30,65,Birds
+40,28,62,Downy Mildew
+42,27,62,Blast
+50,27,63,Leafhoppers
+48,34,72,Blast
+65,34,69,Earworms
+37,27,60,Grasshoppers
+60,27,63,Leafhoppers
+46,27,61,Grasshoppers
+44,33,72,Stem Borers
+42,33,62,Blast
+56,33,71,Downy Mildew
+69,34,72,Stem Borers
+50,27,70,Blast
+52,28,62,Birds
+47,27,61,Blast
+71,32,71,Aphids
+76,31,73,Leafhoppers
+77,30,71,Leafhoppers
+72,32,70,Blast
+38,28,61,Birds
+45,26,63,Grasshoppers
+68,33,73,Blast
+67,31,75,Aphids
+48,32,74,Downy Mildew
+71,32,70,Earworms
+57,28,75,Downy Mildew
+69,34,71,Stem Borers
+49,33,65,Leafhoppers
+43,26,62,Blast
+80,32,62,Leafhoppers
+72,33,65,Earworms
+80,29,72,Leafhoppers
+69,27,68,Earworms
+52,28,61,Birds
+46,26,66,Downy Mildew
+50,31,66,Blast
+36,27,62,Grasshoppers
+80,29,69,Leafhoppers
+51,28,70,Downy Mildew
+48,32,73,Blast
+75,28,73,Earworms
+73,32,68,Earworms
+49,26,63,Birds
+50,28,65,Birds
+69,33,68,Stem Borers
+58,28,70,Blast
+50,29,68,Leafhoppers
+43,27,71,Leafhoppers
+44,27,61,Birds
+74,32,71,Stem Borers
+38,30,67,Downy Mildew
+49,29,64,Birds
+49,29,70,Downy Mildew
+73,34,72,Earworms
+45,25,61,Leafhoppers
+57,31,62,Birds
+74,33,71,Stem Borers
+52,31,71,Leafhoppers
+73,34,72,Aphids
+54,28,73,Downy Mildew
+56,29,64,Leafhoppers
+35,26,63,Grasshoppers
+44,26,66,Birds
+35,27,62,Blast
+72,31,67,Blast
+70,29,74,Blast
+48,27,64,Grasshoppers
+44,28,64,Downy Mildew
+71,33,73,Earworms
+75,34,73,Aphids
+55,30,70,Leafhoppers
+43,29,63,Downy Mildew
+49,28,69,Leafhoppers
+75,34,68,Downy Mildew
+58,29,65,Downy Mildew
+64,31,72,Blast
+56,28,65,Birds
+63,32,70,Stem Borers
+54,31,74,Blast
+53,29,65,Downy Mildew
+54,33,71,Downy Mildew
+77,34,73,Stem Borers
+37,26,62,Blast
+77,31,63,Blast
+40,34,70,Downy Mildew
+43,25,61,Blast
+76,34,70,Earworms
+41,32,74,Blast
+46,33,71,Blast
+47,28,68,Blast
+80,33,75,Aphids
+45,26,64,Birds
+75,32,72,Earworms
+48,27,66,Birds
+50,27,64,Downy Mildew
+80,31,74,Downy Mildew
+63,30,74,Leafhoppers
+70,33,75,Aphids
+60,32,66,Downy Mildew
+80,32,75,Aphids
+47,30,73,Blast
+50,27,64,Downy Mildew
+46,25,61,Blast
+80,32,72,Leafhoppers
+70,29,73,Downy Mildew
+54,26,62,Birds
+67,32,73,Leafhoppers
+77,28,73,Stem Borers
+78,34,71,Stem Borers
+70,34,73,Stem Borers
+59,31,63,Leafhoppers
+56,31,67,Earworms
+54,29,69,Leafhoppers
+51,27,66,Blast
+55,26,71,Leafhoppers
+50,27,64,Blast
+54,32,68,Leafhoppers
+74,29,64,Birds
+67,27,69,Blast
+54,33,72,Aphids
+49,34,71,Downy Mildew
+43,27,65,Birds
+72,34,75,Stem Borers
+71,34,70,Blast
+77,34,75,Downy Mildew
+44,28,65,Downy Mildew
+44,26,62,Downy Mildew
+41,28,63,Birds
+58,29,61,Grasshoppers
+62,27,62,Downy Mildew
+71,31,75,Stem Borers
+44,28,62,Blast
+51,32,72,Blast
+44,29,60,Grasshoppers
+51,26,69,Downy Mildew
+74,34,72,Stem Borers
+77,33,74,Blast
+73,34,71,Blast
+56,28,66,Birds
+67,31,72,Blast
+47,27,64,Downy Mildew
+52,32,63,Downy Mildew
+44,34,69,Blast
+74,27,71,Blast
+46,28,65,Downy Mildew
+71,33,70,Downy Mildew
+44,32,74,Downy Mildew
+75,34,75,Stem Borers
+36,28,61,Blast
+48,27,63,Downy Mildew
+53,25,60,Grasshoppers
+42,27,64,Blast
+80,34,75,Earworms
+78,33,71,Blast
+48,27,63,Grasshoppers
+55,28,64,Downy Mildew
+80,32,75,Earworms
+79,32,73,Aphids
+56,29,64,Grasshoppers
+53,31,60,Leafhoppers
+76,34,69,Stem Borers
+40,26,61,Grasshoppers
+39,33,61,Blast
+45,27,61,Grasshoppers
+40,25,61,Blast
+62,28,65,Birds
+43,27,65,Birds
+39,26,63,Downy Mildew
+77,33,73,Downy Mildew
+49,28,63,Birds
+70,33,72,Blast
+47,25,63,Birds
+47,26,63,Blast
+56,32,72,Downy Mildew
+53,27,70,Leafhoppers
+49,25,60,Grasshoppers
+44,27,61,Earworms
+77,34,72,Earworms
+52,28,62,Birds
+56,32,71,Birds
+46,26,62,Grasshoppers
+59,33,73,Blast
+63,26,64,Leafhoppers
+78,34,73,Aphids
+76,34,72,Downy Mildew
+46,27,64,Grasshoppers
+69,34,75,Stem Borers
+39,28,66,Birds
+45,26,63,Leafhoppers
+46,28,60,Grasshoppers
+65,33,68,Blast
+42,28,61,Blast
+63,29,74,Blast
+69,33,75,Blast
+68,34,75,Downy Mildew
+55,29,63,Birds
+74,33,75,Downy Mildew
+71,31,68,Earworms
+72,34,75,Stem Borers
+47,28,63,Downy Mildew
+71,29,73,Downy Mildew
+57,31,70,Downy Mildew
+49,27,62,Birds
+47,26,65,Birds
+58,31,65,Leafhoppers
+73,31,71,Earworms
+37,29,63,Downy Mildew
+80,30,74,Leafhoppers
+54,32,74,Downy Mildew
+48,28,65,Blast
+52,28,63,Grasshoppers
+46,27,64,Blast
+54,29,62,Downy Mildew
+73,33,73,Blast
+51,27,60,Grasshoppers
+80,33,70,Stem Borers
+79,34,73,Stem Borers
+43,27,64,Downy Mildew
+75,31,68,Earworms
+49,32,66,Birds
+67,34,74,Blast
+71,33,74,Stem Borers
+44,27,63,Downy Mildew
+52,34,74,Downy Mildew
+45,28,62,Leafhoppers
+69,27,72,Aphids
+44,31,64,Blast
+57,25,71,Leafhoppers
+35,28,62,Birds
+43,26,65,Blast
+78,31,72,Downy Mildew
+52,30,67,Leafhoppers
+47,31,70,Blast
+70,34,74,Earworms
+69,34,69,Earworms
+49,26,62,Leafhoppers
+74,33,74,Stem Borers
+54,27,63,Grasshoppers
+73,32,73,Blast
+49,27,63,Blast
+66,34,70,Blast
+42,33,64,Birds
+63,28,63,Blast
+76,32,71,Stem Borers
+73,33,67,Earworms
+45,27,64,Downy Mildew
+50,29,63,Downy Mildew
+49,29,71,Downy Mildew
+42,26,62,Blast
+43,28,60,Blast
+77,27,71,Stem Borers
+45,25,63,Leafhoppers
+78,31,69,Leafhoppers
+65,28,65,Downy Mildew
+56,27,62,Blast
+56,28,64,Downy Mildew
+74,33,74,Blast
+50,27,67,Birds
+58,30,72,Leafhoppers
+63,33,72,Aphids
+38,27,63,Blast
+79,33,72,Stem Borers
+71,32,72,Aphids
+47,27,63,Birds
+37,26,60,Grasshoppers
+42,26,60,Grasshoppers
+68,34,67,Earworms
+71,33,72,Stem Borers
+48,26,62,Blast
+53,31,73,Leafhoppers
+69,33,73,Stem Borers
+49,29,64,Downy Mildew
+56,33,75,Downy Mildew
+54,28,65,Birds
+56,28,64,Birds
+40,29,60,Blast
+47,26,67,Downy Mildew
+39,27,68,Blast
+73,34,67,Blast
+70,33,72,Stem Borers
+41,29,69,Earworms
+76,34,64,Downy Mildew
+65,34,75,Stem Borers
+75,34,70,Earworms
+54,26,65,Birds
+48,32,61,Leafhoppers
+56,28,62,Downy Mildew
+52,28,68,Birds
+55,29,68,Downy Mildew
+56,26,60,Blast
+44,31,69,Leafhoppers
+64,31,69,Earworms
+80,33,73,Earworms
+49,28,66,Earworms
+41,31,65,Aphids
+68,34,71,Stem Borers
+51,28,65,Blast
+43,27,61,Grasshoppers
+39,28,63,Downy Mildew
+52,33,75,Downy Mildew
+42,27,66,Birds
+69,34,72,Downy Mildew
+73,34,74,Blast
+64,30,66,Downy Mildew
+56,28,72,Birds
+80,30,73,Downy Mildew
+77,33,75,Aphids
+71,32,70,Blast
+50,26,60,Leafhoppers
+50,25,64,Downy Mildew
+79,32,75,Downy Mildew
+54,34,63,Grasshoppers
+70,33,74,Aphids
+69,32,68,Aphids
+78,34,71,Aphids
+77,34,71,Aphids
+46,31,70,Blast
+80,32,72,Blast
+77,34,70,Aphids
+43,27,62,Blast
+51,30,67,Grasshoppers
+76,32,72,Aphids
+55,29,66,Grasshoppers
+70,34,72,Stem Borers
+62,31,66,Leafhoppers
+77,27,63,Downy Mildew
+73,34,72,Blast
+48,27,64,Birds
+54,29,73,Downy Mildew
+43,27,63,Blast
+68,32,71,Aphids
+43,30,66,Blast
+41,29,62,Blast
+79,33,73,Stem Borers
+45,28,65,Downy Mildew
+71,32,61,Aphids
+51,26,61,Blast
+74,33,67,Earworms
+56,34,63,Blast
+42,29,61,Birds
+49,28,67,Downy Mildew
+45,29,62,Grasshoppers
+42,27,71,Blast
+77,34,72,Downy Mildew
+52,28,73,Downy Mildew
+53,27,65,Birds
+49,34,68,Blast
+78,30,71,Stem Borers
+52,26,61,Downy Mildew
+41,29,66,Aphids
+45,28,63,Grasshoppers
+80,34,71,Aphids
+63,33,70,Blast
+51,28,64,Grasshoppers
+65,34,74,Stem Borers
+75,32,72,Stem Borers
+46,26,64,Birds
+35,29,71,Blast
+53,28,63,Downy Mildew
+35,26,60,Downy Mildew
+52,31,60,Leafhoppers
+53,32,71,Aphids
+64,31,74,Stem Borers
+45,26,60,Blast
+71,33,61,Blast
+46,30,65,Aphids
+71,32,70,Stem Borers
+40,25,63,Grasshoppers
+69,33,75,Blast
+70,34,74,Downy Mildew
+65,34,72,Blast
+35,27,60,Blast
+39,26,64,Downy Mildew
+70,31,69,Earworms
+40,27,65,Grasshoppers
+47,28,62,Grasshoppers
+46,28,64,Aphids
+80,33,75,Stem Borers
+54,28,68,Leafhoppers
+54,27,68,Downy Mildew
+73,33,68,Downy Mildew
+52,31,64,Blast
+52,28,65,Grasshoppers
+74,32,73,Aphids
+71,33,73,Downy Mildew
+42,28,62,Grasshoppers
+75,33,70,Earworms
+48,26,62,Birds
+51,34,71,Blast
+80,34,73,Downy Mildew
+51,32,70,Leafhoppers
+73,34,75,Stem Borers
+56,32,62,Leafhoppers
+44,26,75,Downy Mildew
+39,25,61,Blast
+70,30,68,Earworms
+40,27,61,Birds
+43,28,62,Birds
+44,26,60,Grasshoppers
+60,31,73,Downy Mildew
+42,27,62,Blast
+64,34,71,Leafhoppers
+38,27,60,Blast
+59,31,66,Downy Mildew
+35,29,62,Birds
+51,32,74,Stem Borers
+57,28,63,Grasshoppers
+50,27,63,Birds
+70,34,72,Stem Borers
+52,33,71,Blast
+69,33,70,Earworms
+77,33,71,Aphids
+48,33,73,Downy Mildew
+75,34,68,Stem Borers
+47,28,63,Blast
+43,32,70,Stem Borers
+55,29,64,Downy Mildew
+39,28,64,Blast
+47,28,62,Blast
+73,29,74,Earworms
+80,33,71,Aphids
+68,33,74,Aphids
+42,32,73,Aphids
+79,33,71,Blast
+69,33,72,Earworms
+51,33,68,Downy Mildew
+51,33,64,Downy Mildew
+66,33,75,Downy Mildew
+71,33,75,Aphids
+46,27,62,Blast
+49,28,67,Blast
+44,27,61,Blast
+67,34,71,Stem Borers
+41,28,63,Birds
+53,25,63,Leafhoppers
+72,33,69,Stem Borers
+35,28,61,Grasshoppers
+52,34,75,Blast
+67,34,72,Earworms
+36,27,62,Birds
+74,33,73,Downy Mildew
+43,28,70,Blast
+66,28,70,Blast
+61,32,71,Downy Mildew
+49,30,72,Blast
+67,33,71,Earworms
+51,26,67,Downy Mildew
+50,27,60,Stem Borers
+65,32,68,Earworms
+72,32,73,Earworms
+40,26,63,Blast
+47,29,63,Downy Mildew
+54,28,66,Downy Mildew
+40,27,64,Birds
+46,27,66,Blast
+80,32,72,Blast
+68,31,69,Earworms
+70,26,72,Aphids
+78,34,72,Downy Mildew
+35,26,63,Downy Mildew
+75,33,73,Aphids
+49,27,64,Birds
+55,32,65,Grasshoppers
+59,27,63,Grasshoppers
+53,26,60,Grasshoppers
+52,33,71,Downy Mildew
+48,28,63,Birds
+67,31,69,Aphids
+53,27,70,Grasshoppers
+55,29,69,Birds
+48,28,64,Birds
+45,26,62,Leafhoppers
+48,34,72,Blast
+48,26,62,Leafhoppers
+56,27,66,Birds
+46,26,64,Downy Mildew
+41,26,64,Grasshoppers
+60,32,62,Leafhoppers
+75,34,74,Stem Borers
+78,29,65,Downy Mildew
+80,31,71,Leafhoppers
+64,33,72,Stem Borers
+45,25,61,Leafhoppers
+72,28,64,Blast
+57,26,67,Leafhoppers
+56,28,63,Birds
+49,29,64,Downy Mildew
+76,32,68,Earworms
+52,30,69,Leafhoppers
+45,26,60,Leafhoppers
+76,34,73,Stem Borers
+69,33,72,Earworms
+54,26,63,Downy Mildew
+44,28,64,Grasshoppers
+66,34,73,Aphids
+72,33,75,Aphids
+52,33,65,Downy Mildew
+42,26,62,Blast
+52,33,62,Downy Mildew
+51,27,61,Blast
+71,32,71,Stem Borers
+64,31,71,Leafhoppers
+75,33,73,Earworms
+50,32,75,Downy Mildew
+67,32,71,Aphids
+41,27,64,Blast
+74,33,71,Aphids
+75,33,74,Blast
+69,33,73,Earworms
+42,26,60,Grasshoppers
+78,34,75,Stem Borers
+52,28,63,Blast
+43,27,63,Downy Mildew
+66,32,69,Earworms
+49,27,63,Downy Mildew
+49,26,65,Downy Mildew
+71,32,72,Downy Mildew
+44,27,60,Grasshoppers
+66,33,75,Aphids
+68,28,70,Blast
+65,34,70,Stem Borers
+69,31,71,Earworms
+53,32,68,Earworms
+69,34,71,Aphids
+76,33,75,Aphids
+77,34,68,Stem Borers
+80,31,73,Earworms
+78,33,74,Aphids
+37,27,61,Blast
+44,30,71,Downy Mildew
+39,25,66,Blast
+70,33,72,Stem Borers
+62,31,71,Leafhoppers
+71,31,72,Aphids
+49,27,60,Grasshoppers
+54,30,71,Leafhoppers
+79,32,72,Downy Mildew
+35,29,65,Blast
+52,26,65,Grasshoppers
+73,34,75,Aphids
+37,33,72,Blast
+72,33,75,Downy Mildew
+48,25,64,Leafhoppers
+52,26,63,Grasshoppers
+75,34,71,Earworms
+41,28,60,Blast
+77,33,72,Aphids
+54,31,60,Leafhoppers
+44,29,64,Grasshoppers
+75,34,74,Downy Mildew
+45,28,63,Downy Mildew
+79,34,75,Downy Mildew
+50,33,64,Downy Mildew
+53,26,64,Grasshoppers
+41,28,60,Grasshoppers
+42,27,62,Blast
+47,28,62,Downy Mildew
+75,34,73,Earworms
+75,33,74,Aphids
+38,28,63,Birds
+38,29,63,Downy Mildew
+53,28,66,Downy Mildew
+62,26,70,Leafhoppers
+47,27,64,Grasshoppers
+79,32,71,Leafhoppers
+80,28,73,Blast
+43,28,63,Birds
+44,25,66,Blast
+51,29,72,Birds
+68,33,69,Blast
+46,27,64,Downy Mildew
+50,34,73,Downy Mildew
+57,26,63,Birds
+52,29,63,Birds
+66,33,72,Stem Borers
+42,25,62,Leafhoppers
+74,32,71,Earworms
+46,26,62,Leafhoppers
+50,30,61,Grasshoppers
+75,34,75,Downy Mildew
+74,34,75,Blast
+69,33,72,Aphids
+72,34,73,Aphids
+53,28,65,Birds
+75,34,72,Downy Mildew
+40,25,63,Blast
+39,28,61,Grasshoppers
+52,28,64,Downy Mildew
+58,31,69,Leafhoppers
+36,29,64,Blast
+76,32,72,Aphids
+49,28,67,Birds
+35,28,61,Downy Mildew
+47,27,63,Blast
+53,27,65,Birds
+39,28,60,Blast
+50,28,66,Birds
+46,28,64,Downy Mildew
+46,28,62,Birds
+72,27,70,Blast
+72,32,71,Aphids
+55,32,75,Earworms
+71,32,74,Earworms
+80,34,67,Downy Mildew
+80,27,65,Downy Mildew
+42,29,64,Downy Mildew
+68,33,72,Earworms
+51,27,61,Grasshoppers
+64,32,69,Leafhoppers
+53,28,62,Blast
+70,34,74,Stem Borers
+46,27,66,Blast
+53,26,64,Birds
+72,32,70,Earworms
+79,34,75,Aphids
+49,27,65,Downy Mildew
+35,27,63,Blast
+43,27,66,Birds
+44,27,60,Blast
+35,26,60,Blast
+67,34,72,Stem Borers
+71,32,69,Earworms
+56,30,63,Downy Mildew
+47,28,64,Blast
+76,34,74,Blast
+43,27,61,Birds
+72,33,72,Earworms
+41,29,64,Grasshoppers
+47,26,63,Birds
+57,28,65,Birds
+80,32,70,Earworms
+46,26,61,Blast
+77,33,72,Stem Borers
+51,28,63,Grasshoppers
+51,33,66,Blast
+75,27,63,Birds
+61,28,66,Birds
+69,33,69,Earworms
+76,28,75,Downy Mildew
+54,28,64,Downy Mildew
+76,31,63,Downy Mildew
+69,33,70,Earworms
+79,34,74,Stem Borers
+49,25,62,Grasshoppers
+74,33,72,Aphids
+54,28,71,Downy Mildew
+43,29,67,Downy Mildew
+49,32,73,Downy Mildew
+51,33,74,Downy Mildew
+80,34,74,Downy Mildew
+49,30,60,Leafhoppers
+44,27,60,Blast
+53,29,63,Birds
+69,27,67,Downy Mildew
+41,28,61,Birds
+68,33,72,Earworms
+73,30,72,Blast
+51,33,70,Blast
+54,27,71,Blast
+50,29,64,Grasshoppers
+51,27,66,Birds
+46,27,63,Birds
+57,26,63,Leafhoppers
+50,25,67,Leafhoppers
+67,32,63,Birds
+70,31,70,Earworms
+41,33,62,Blast
+58,27,65,Downy Mildew
+71,32,72,Earworms
+76,31,74,Aphids
+54,32,63,Downy Mildew
+73,34,69,Stem Borers
+66,32,75,Downy Mildew
+73,34,75,Stem Borers
+38,27,62,Blast
+75,34,70,Downy Mildew
+71,32,75,Aphids
+80,32,75,Stem Borers
+38,27,61,Blast
+53,31,74,Birds
+70,34,71,Aphids
+46,27,60,Blast
+78,32,73,Leafhoppers
+47,27,61,Grasshoppers
+56,25,60,Birds
+69,32,71,Earworms
+77,34,72,Stem Borers
+80,33,74,Stem Borers
+76,34,70,Leafhoppers
+53,31,65,Leafhoppers
+46,26,68,Downy Mildew
+46,26,63,Blast
+57,28,75,Downy Mildew
+74,33,72,Earworms
+52,29,63,Blast
+72,31,72,Earworms
+75,32,66,Blast
+55,32,65,Downy Mildew
+41,26,66,Blast
+71,32,68,Earworms
+44,26,64,Birds
+52,26,61,Grasshoppers
+77,33,74,Aphids
+48,26,63,Birds
+39,28,64,Blast
+67,33,71,Aphids
+44,29,74,Downy Mildew
+71,32,74,Blast
+52,27,65,Birds
+78,32,69,Downy Mildew
+77,33,71,Downy Mildew
+76,34,72,Stem Borers
+68,32,74,Aphids
+44,27,64,Birds
+68,33,71,Earworms
+47,28,65,Birds
+53,25,63,Grasshoppers
+61,30,66,Birds
+55,27,71,Downy Mildew
+53,28,63,Grasshoppers
+60,30,71,Leafhoppers
+78,34,69,Blast
+69,33,69,Stem Borers
+44,28,62,Grasshoppers
+67,32,72,Stem Borers
+79,34,74,Downy Mildew
+68,32,74,Aphids
+38,28,63,Blast
+52,26,67,Leafhoppers
+65,33,71,Blast
+42,27,62,Blast
+46,30,64,Birds
+53,28,62,Blast
+76,31,72,Leafhoppers
+72,32,69,Stem Borers
+67,34,70,Earworms
+43,32,63,Birds
+47,28,63,Grasshoppers
+47,32,72,Leafhoppers
+54,28,66,Downy Mildew
+44,28,65,Grasshoppers
+50,28,66,Grasshoppers
+53,29,62,Downy Mildew
+52,28,74,Downy Mildew
+43,28,61,Grasshoppers
+80,33,67,Downy Mildew
+73,33,72,Earworms
+50,33,71,Blast
+40,26,61,Grasshoppers
+52,28,63,Grasshoppers
+79,32,72,Stem Borers
+64,28,63,Blast
+48,29,63,Downy Mildew
+45,29,60,Grasshoppers
+60,30,72,Leafhoppers
+76,33,72,Stem Borers
+49,26,63,Blast
+66,32,71,Earworms
+45,27,64,Downy Mildew
+45,32,69,Blast
+59,31,61,Earworms
+56,29,63,Birds
+52,27,61,Grasshoppers
+80,34,74,Downy Mildew
+71,34,71,Stem Borers
+51,26,67,Blast
+73,31,72,Aphids
+47,26,64,Grasshoppers
+47,26,60,Downy Mildew
+55,28,63,Blast
+39,28,67,Birds
+65,30,64,Stem Borers
+80,34,73,Aphids
+39,28,65,Blast
+43,28,62,Blast
+61,27,63,Blast
+66,27,68,Earworms
+55,30,63,Downy Mildew
+68,33,72,Earworms
+55,29,64,Birds
+42,26,61,Grasshoppers
+76,33,74,Stem Borers
+76,34,71,Downy Mildew
+80,29,61,Leafhoppers
+38,28,60,Blast
+44,27,62,Downy Mildew
+65,34,75,Stem Borers
+47,28,73,Birds
+45,28,72,Downy Mildew
+71,34,70,Stem Borers
+72,33,71,Stem Borers
+68,33,69,Earworms
+44,27,64,Grasshoppers
+65,34,72,Stem Borers
+42,32,63,Earworms
+50,31,63,Downy Mildew
+57,28,61,Blast
+52,28,65,Blast
+39,28,63,Grasshoppers
+45,26,61,Blast
+76,33,71,Stem Borers
+80,34,75,Aphids
+77,33,72,Downy Mildew
+56,25,60,Leafhoppers
+79,34,70,Blast
+48,27,61,Blast
+64,28,74,Stem Borers
+73,31,68,Earworms
+40,30,64,Birds
+49,27,71,Blast
+57,27,60,Grasshoppers
+51,32,71,Earworms
+48,25,62,Blast
+54,32,72,Birds
+71,31,71,Aphids
+77,31,75,Downy Mildew
+40,29,65,Grasshoppers
+38,26,62,Grasshoppers
+53,25,61,Grasshoppers
+39,27,60,Blast
+74,31,70,Earworms
+56,33,73,Grasshoppers
+43,26,62,Blast
+80,34,73,Stem Borers
+49,30,69,Leafhoppers
+42,28,62,Birds
+57,27,66,Grasshoppers
+73,34,72,Earworms
+75,33,64,Stem Borers
+46,27,60,Birds
+42,26,65,Blast
+37,25,66,Blast
+65,34,72,Aphids
+48,27,62,Birds
+75,32,68,Earworms
+74,34,73,Aphids
+47,28,70,Downy Mildew
+47,27,62,Downy Mildew
+52,27,62,Grasshoppers
+80,31,72,Leafhoppers
+43,26,60,Blast
+49,33,72,Blast
+69,33,73,Earworms
+52,28,63,Birds
+54,31,72,Aphids
+49,29,66,Downy Mildew
+72,34,73,Stem Borers
+80,33,72,Aphids
+35,27,62,Downy Mildew
+39,28,61,Blast
+45,28,63,Grasshoppers
+45,27,61,Leafhoppers
+76,33,74,Downy Mildew
+54,30,62,Leafhoppers
+79,34,71,Birds
+50,29,63,Downy Mildew
+48,29,63,Blast
+72,31,69,Aphids
+41,28,72,Downy Mildew
+47,26,62,Grasshoppers
+49,34,74,Downy Mildew
+80,32,71,Leafhoppers
+72,32,72,Blast
+45,29,65,Aphids
+75,34,74,Earworms
+62,29,62,Aphids
+70,34,73,Stem Borers
+48,28,63,Birds
+58,28,75,Downy Mildew
+55,27,62,Birds
+42,29,69,Birds
+56,27,63,Leafhoppers
+53,26,65,Birds
+56,30,65,Downy Mildew
+43,29,60,Birds
+41,33,63,Downy Mildew
+45,26,67,Blast
+47,28,73,Blast
+60,29,69,Leafhoppers
+52,30,66,Leafhoppers
+43,29,64,Blast
+70,32,70,Aphids
+46,27,62,Blast
+65,33,73,Aphids
+74,33,74,Aphids
+76,34,70,Stem Borers
+43,28,62,Blast
+48,27,64,Downy Mildew
+66,29,69,Earworms
+43,29,64,Downy Mildew
+50,26,70,Leafhoppers
+49,26,60,Blast
+80,29,72,Leafhoppers
+63,32,73,Stem Borers
+48,27,62,Grasshoppers
+47,28,71,Downy Mildew
+37,28,64,Grasshoppers
+44,25,64,Leafhoppers
+41,26,61,Blast
+71,32,75,Downy Mildew
+35,26,66,Downy Mildew
+65,28,73,Blast
+66,32,67,Aphids
+67,33,70,Earworms
+44,28,75,Blast
+47,27,66,Grasshoppers
+69,31,73,Stem Borers
+35,27,62,Grasshoppers
+44,25,61,Leafhoppers
+44,28,66,Grasshoppers
+58,34,73,Earworms
+48,29,61,Leafhoppers
+71,32,67,Earworms
+55,34,70,Blast
+45,33,67,Blast
+80,33,74,Aphids
+72,34,70,Aphids
+48,27,61,Grasshoppers
+74,30,75,Downy Mildew
+80,29,68,Downy Mildew
+53,26,64,Birds
+42,28,64,Grasshoppers
+50,27,71,Grasshoppers
+53,28,64,Downy Mildew
+51,31,74,Downy Mildew
+41,29,64,Grasshoppers
+54,26,74,Birds
+80,33,72,Aphids
+53,27,64,Birds
+76,32,71,Earworms
+72,29,69,Downy Mildew
+52,27,67,Birds
+78,34,73,Stem Borers
+57,28,66,Downy Mildew
+56,29,65,Downy Mildew
+48,27,63,Grasshoppers
+78,29,74,Downy Mildew
+77,33,64,Stem Borers
+63,27,71,Blast
+68,32,71,Earworms
+36,26,64,Blast
+74,33,69,Stem Borers
+64,30,70,Leafhoppers
+69,30,73,Blast
+52,27,64,Birds
+48,26,64,Downy Mildew
+43,34,72,Earworms
+71,33,69,Earworms
+45,26,62,Birds
+58,32,72,Blast
+77,32,74,Aphids
+49,34,75,Downy Mildew
+80,33,75,Downy Mildew
+51,28,62,Birds
+43,25,74,Birds
+48,26,64,Blast
+56,31,71,Leafhoppers
+41,26,64,Blast
+80,34,75,Downy Mildew
+52,30,69,Leafhoppers
+59,25,63,Birds
+44,27,63,Grasshoppers
+47,29,72,Blast
+51,26,60,Birds
+44,28,67,Grasshoppers
+62,33,73,Earworms
+57,28,63,Grasshoppers
+57,27,64,Downy Mildew
+39,26,65,Grasshoppers
+69,31,71,Blast
+68,34,74,Blast
+39,28,62,Blast
+63,28,64,Downy Mildew
+73,34,73,Aphids
+48,26,63,Leafhoppers
+66,33,68,Blast
+50,31,70,Blast
+69,28,73,Aphids
+77,32,74,Stem Borers
+68,34,71,Stem Borers
+65,34,72,Stem Borers
+44,28,65,Downy Mildew
+74,31,75,Aphids
+46,26,69,Blast
+53,29,65,Grasshoppers
+74,32,68,Earworms
+72,33,69,Earworms
+70,33,70,Stem Borers
+42,28,63,Downy Mildew
+72,32,71,Earworms
+39,27,65,Blast
+73,33,75,Downy Mildew
+79,32,73,Blast
+77,33,73,Stem Borers
+46,29,63,Grasshoppers
+77,32,75,Aphids
+42,29,67,Downy Mildew
+46,29,64,Blast
+47,29,65,Blast
+47,27,63,Birds
+52,28,60,Blast
+64,32,71,Earworms
+69,31,75,Downy Mildew
+53,31,74,Downy Mildew
+43,28,64,Downy Mildew
+43,27,60,Blast
+45,28,63,Grasshoppers
+75,34,71,Earworms
+73,33,65,Blast
+78,33,74,Aphids
+53,28,62,Blast
+77,33,74,Aphids
+52,25,62,Grasshoppers
+47,25,64,Blast
+80,31,73,Leafhoppers
+47,27,62,Blast
+79,33,70,Earworms
+73,30,72,Downy Mildew
+48,28,65,Birds
+75,33,74,Aphids
+47,27,62,Downy Mildew
+51,34,70,Blast
+80,34,75,Downy Mildew
+73,34,74,Aphids
+78,33,70,Stem Borers
+51,27,71,Grasshoppers
+45,33,69,Leafhoppers
+53,27,61,Birds
+70,31,73,Leafhoppers
+66,34,74,Aphids
+49,25,63,Birds
+80,33,70,Stem Borers
+72,28,71,Downy Mildew
+51,30,65,Downy Mildew
+80,32,72,Earworms
+75,34,71,Stem Borers
+48,31,66,Birds
+53,30,68,Leafhoppers
+35,32,63,Downy Mildew
+57,32,74,Downy Mildew
+68,33,74,Earworms
+47,26,62,Grasshoppers
+73,30,75,Aphids
+39,28,62,Grasshoppers
+50,27,66,Downy Mildew
+56,27,66,Birds
+70,31,71,Earworms
+54,34,74,Downy Mildew
+48,28,61,Blast
+57,25,61,Leafhoppers
+70,32,74,Aphids
+77,33,71,Blast
+49,28,64,Downy Mildew
+44,33,63,Downy Mildew
+57,30,75,Leafhoppers
+69,34,74,Earworms
+67,33,73,Stem Borers
+63,33,73,Aphids
+51,27,64,Leafhoppers
+74,33,65,Aphids
+51,26,66,Blast
+71,33,70,Earworms
+51,28,62,Downy Mildew
+76,34,71,Blast
+47,29,62,Birds
+60,28,64,Grasshoppers
+56,27,61,Grasshoppers
+67,27,74,Blast
+74,34,71,Stem Borers
+41,29,75,Downy Mildew
+60,31,63,Leafhoppers
+48,30,63,Grasshoppers
+58,34,74,Earworms
+69,34,73,Aphids
+43,28,63,Birds
+51,27,61,Grasshoppers
+56,29,69,Blast
+46,27,61,Grasshoppers
+65,30,63,Aphids
+80,34,73,Aphids
+67,32,73,Aphids
+73,31,60,Leafhoppers
+71,34,72,Stem Borers
+59,30,73,Leafhoppers
+51,33,73,Blast
+50,30,65,Downy Mildew
+45,27,60,Birds
+48,29,63,Blast
+73,33,71,Earworms
+53,32,74,Leafhoppers
+44,27,65,Blast
+50,28,61,Grasshoppers
+59,30,68,Earworms
+48,29,72,Downy Mildew
+59,28,62,Grasshoppers
+39,28,65,Grasshoppers
+48,26,60,Birds
+80,33,69,Earworms
+80,28,73,Downy Mildew
+57,27,69,Grasshoppers
+47,32,72,Birds
+37,26,63,Downy Mildew
+60,31,64,Leafhoppers
+52,33,65,Downy Mildew
+43,27,63,Blast
+43,29,64,Birds
+66,28,71,Earworms
+51,28,64,Blast
+63,27,72,Stem Borers
+70,27,60,Blast
+76,34,64,Downy Mildew
+49,29,65,Downy Mildew
+51,27,63,Leafhoppers
+41,28,62,Grasshoppers
+39,34,64,Blast
+71,33,72,Earworms
+80,32,71,Leafhoppers
+60,26,65,Downy Mildew
+76,32,61,Blast
+72,33,74,Stem Borers
+40,29,69,Blast
+66,25,70,Aphids
+44,27,64,Downy Mildew
+62,34,69,Earworms
+51,28,63,Downy Mildew
+57,29,65,Downy Mildew
+62,33,75,Birds
+80,29,75,Downy Mildew
+80,34,74,Stem Borers
+53,28,62,Downy Mildew
+73,34,71,Earworms
+71,34,72,Earworms
+48,25,61,Blast
+80,32,73,Stem Borers
+45,27,68,Birds
+45,29,65,Downy Mildew
+41,29,62,Blast
+74,33,72,Stem Borers
+59,26,63,Leafhoppers
+67,32,73,Earworms
+51,29,61,Downy Mildew
+49,26,63,Grasshoppers
+50,31,70,Blast
+62,30,62,Stem Borers
+45,28,64,Blast
+72,31,73,Leafhoppers
+49,27,61,Leafhoppers
+51,30,63,Blast
+67,32,67,Earworms
+80,29,72,Downy Mildew
+57,33,63,Blast
+75,33,73,Downy Mildew
+48,31,73,Aphids
+72,32,64,Aphids
+48,29,62,Downy Mildew
+49,27,69,Blast
+51,28,65,Birds
+68,27,70,Blast
+56,33,74,Leafhoppers
+80,34,73,Downy Mildew
+51,26,71,Blast
+70,33,71,Aphids
+47,27,65,Blast
+75,33,72,Stem Borers
+52,27,60,Leafhoppers
+37,26,60,Blast
+79,33,75,Stem Borers
+71,33,71,Blast
+75,34,69,Blast
+56,27,63,Birds
+59,28,65,Birds
+41,27,70,Earworms
+80,34,73,Stem Borers
+55,28,63,Grasshoppers
+50,34,68,Earworms
+53,27,61,Grasshoppers
+70,34,74,Stem Borers
+69,34,74,Stem Borers
+56,27,64,Birds
+53,27,63,Leafhoppers
+52,28,61,Grasshoppers
+40,27,64,Blast
+80,34,64,Downy Mildew
+48,29,61,Birds
+53,27,64,Birds
+63,28,72,Leafhoppers
+46,28,65,Downy Mildew
+45,28,61,Downy Mildew
+47,27,61,Blast
+80,33,70,Stem Borers
+56,27,69,Leafhoppers
+50,28,60,Grasshoppers
+73,32,72,Blast
+41,27,72,Earworms
+39,27,68,Blast
+76,33,74,Stem Borers
+57,30,60,Leafhoppers
+73,32,70,Earworms
+38,29,68,Aphids
+79,30,73,Blast
+73,34,72,Aphids
+60,29,65,Leafhoppers
+75,33,71,Leafhoppers
+48,27,63,Blast
+80,32,72,Leafhoppers
+49,28,66,Blast
+40,27,63,Blast
+71,32,65,Blast
+36,28,61,Grasshoppers
+56,28,60,Downy Mildew
+72,33,73,Earworms
+53,28,66,Downy Mildew
+51,25,63,Blast
+76,31,68,Earworms
+45,28,64,Downy Mildew
+79,33,71,Earworms
+46,27,66,Birds
+68,32,74,Blast
+75,33,64,Birds
+49,34,72,Downy Mildew
+45,26,65,Blast
+65,33,72,Earworms
+45,28,64,Grasshoppers
+48,28,64,Birds
+51,29,64,Downy Mildew
+53,28,66,Birds
+44,28,62,Blast
+74,34,74,Earworms
+80,33,75,Downy Mildew
+51,30,61,Grasshoppers
+80,33,68,Stem Borers
+44,31,61,Blast
+41,29,60,Blast
+47,30,70,Leafhoppers
+68,28,71,Blast
+47,29,65,Birds
+78,34,75,Aphids
+53,31,62,Birds
+50,25,63,Leafhoppers
+54,28,75,Downy Mildew
+80,32,73,Stem Borers
+57,31,64,Downy Mildew
+56,29,73,Blast
+38,30,71,Aphids
+69,31,71,Blast
+49,29,71,Downy Mildew
+57,31,67,Downy Mildew
+48,31,63,Downy Mildew
+45,28,68,Birds
+50,32,65,Blast
+59,29,63,Grasshoppers
+78,34,69,Blast
+70,26,66,Downy Mildew
+50,28,62,Blast
+80,33,73,Stem Borers
+51,27,67,Leafhoppers
+72,34,71,Earworms
+58,28,65,Birds
+80,34,71,Downy Mildew
+51,29,61,Downy Mildew
+51,28,63,Downy Mildew
+46,28,63,Blast
+63,28,70,Earworms
+48,27,63,Downy Mildew
+44,31,70,Blast
+80,34,74,Downy Mildew
+44,27,61,Grasshoppers
+68,33,71,Earworms
+56,28,63,Grasshoppers
+75,34,72,Stem Borers
+69,34,71,Earworms
+78,30,72,Leafhoppers
+43,28,65,Downy Mildew
+80,34,73,Downy Mildew
+68,34,74,Earworms
+39,29,65,Birds
+52,27,60,Blast
+74,30,70,Blast
+56,27,66,Leafhoppers
+64,28,61,Blast
+41,26,60,Grasshoppers
+77,33,74,Aphids
+45,25,63,Blast
+58,27,60,Blast
+67,33,71,Stem Borers
+54,25,60,Leafhoppers
+68,31,69,Earworms
+57,26,66,Downy Mildew
+57,29,64,Downy Mildew
+44,33,61,Blast
+49,28,63,Birds
+47,32,69,Earworms
+48,26,71,Downy Mildew
+55,29,65,Downy Mildew
+51,28,64,Blast
+69,34,72,Downy Mildew
+46,28,63,Downy Mildew
+62,32,70,Stem Borers
+75,32,74,Aphids
+67,31,70,Aphids
+56,31,63,Grasshoppers
+75,31,67,Earworms
+79,34,73,Aphids
+43,34,67,Earworms
+39,25,64,Birds
+48,32,70,Blast
+46,29,62,Grasshoppers
+49,26,64,Blast
+71,34,72,Aphids
+48,27,64,Grasshoppers
+44,26,64,Blast
+53,33,73,Blast
+39,27,65,Birds
+80,32,70,Downy Mildew
+75,33,74,Aphids
+45,28,60,Blast
+49,28,64,Birds
+70,31,70,Aphids
+72,25,71,Blast
+45,34,69,Stem Borers
+77,32,75,Stem Borers
+54,26,62,Birds
+44,27,60,Earworms
+41,27,60,Grasshoppers
+49,28,65,Blast
+77,32,68,Earworms
+67,32,72,Stem Borers
+61,27,66,Downy Mildew
+73,34,69,Earworms
+76,33,72,Leafhoppers
+79,33,73,Earworms
+78,31,64,Downy Mildew
+48,29,62,Birds
+46,29,64,Birds
+42,29,64,Birds
+50,26,60,Birds
+66,29,71,Downy Mildew
+45,25,60,Blast
+47,28,71,Downy Mildew
+80,34,68,Downy Mildew
+47,27,63,Grasshoppers
+48,26,62,Blast
+44,31,72,Blast
+80,33,73,Aphids
+35,29,66,Downy Mildew
+49,30,60,Leafhoppers
+44,29,63,Downy Mildew
+50,26,72,Downy Mildew
+59,30,72,Downy Mildew
+47,26,72,Blast
+48,28,65,Grasshoppers
+51,28,63,Birds
+74,31,74,Aphids
+49,31,64,Leafhoppers
+80,33,74,Aphids
+53,26,62,Birds
+42,32,71,Earworms
+75,32,72,Blast
+52,33,66,Downy Mildew
+72,27,69,Earworms
+55,26,68,Birds
+44,27,63,Birds
+80,33,71,Leafhoppers
+48,27,75,Downy Mildew
+69,34,75,Aphids
+41,25,60,Blast
+76,34,74,Aphids
+52,28,64,Grasshoppers
+72,34,74,Stem Borers
+42,31,70,Blast
+75,29,70,Leafhoppers
+43,25,69,Leafhoppers
+69,32,67,Earworms
+60,33,74,Blast
+43,26,65,Blast
+77,34,73,Stem Borers
+49,27,63,Birds
+59,29,72,Leafhoppers
+74,33,71,Downy Mildew
+73,31,64,Earworms
+79,33,73,Stem Borers
+72,34,62,Earworms
+64,33,71,Blast
+79,34,72,Aphids
+60,33,66,Leafhoppers
+38,29,63,Blast
+51,28,65,Blast
+47,33,64,Downy Mildew
+55,29,63,Birds
+37,25,61,Blast
+40,29,62,Birds
+76,30,70,Earworms
+46,27,64,Grasshoppers
+45,26,61,Blast
+57,28,62,Grasshoppers
+76,34,71,Grasshoppers
+49,26,71,Leafhoppers
+42,28,63,Grasshoppers
+76,32,65,Aphids
+44,28,63,Blast
+69,31,75,Leafhoppers
+54,33,71,Downy Mildew
+56,32,73,Leafhoppers
+80,33,75,Aphids
+60,31,63,Leafhoppers
+77,34,75,Stem Borers
+47,28,65,Grasshoppers
+49,31,63,Leafhoppers
+73,28,69,Blast
+53,32,72,Birds
+80,32,74,Stem Borers
+52,29,65,Downy Mildew
+80,33,71,Downy Mildew
+74,33,75,Stem Borers
+72,28,70,Aphids
+53,25,61,Leafhoppers
+70,34,72,Earworms
+44,27,72,Downy Mildew
+75,32,72,Downy Mildew
+61,34,74,Blast
+51,28,64,Birds
+55,32,74,Downy Mildew
+75,34,72,Aphids
+46,27,61,Birds
+48,28,63,Birds
+47,28,65,Blast
+64,34,67,Birds
+50,33,66,Birds
+80,33,72,Stem Borers
+78,34,72,Aphids
+48,28,62,Blast
+58,28,65,Blast
+39,33,72,Stem Borers
+72,33,72,Aphids
+68,33,72,Stem Borers
+59,26,61,Leafhoppers
+71,32,73,Earworms
+55,33,67,Downy Mildew
+74,33,75,Aphids
+37,27,61,Blast
+45,28,63,Grasshoppers
+73,34,70,Stem Borers
+48,27,62,Grasshoppers
+39,29,66,Grasshoppers
+51,28,65,Blast
+48,34,62,Downy Mildew
+53,31,74,Leafhoppers
+49,34,63,Downy Mildew
+57,28,66,Blast
+71,34,74,Aphids
+40,34,66,Downy Mildew
+35,28,70,Blast
+80,32,71,Earworms
+37,25,63,Blast
+70,33,73,Blast
+37,26,61,Downy Mildew
+69,33,72,Blast
+50,27,65,Birds
+79,34,73,Aphids
+59,28,65,Birds
+37,27,62,Stem Borers
+59,29,66,Downy Mildew
+79,32,72,Stem Borers
+47,29,65,Downy Mildew
+41,27,64,Birds
+55,31,71,Leafhoppers
+76,33,71,Earworms
+43,28,64,Earworms
+77,32,72,Stem Borers
+50,28,64,Grasshoppers
+51,27,62,Birds
+51,27,64,Grasshoppers
+41,27,62,Blast
+80,32,73,Downy Mildew
+37,26,61,Birds
+37,28,63,Grasshoppers
+38,26,61,Blast
+71,33,72,Blast
+80,30,61,Blast
+44,29,62,Grasshoppers
+74,31,72,Stem Borers
+44,32,72,Blast
+76,30,62,Blast
+80,34,73,Stem Borers
+71,34,73,Aphids
+38,28,61,Blast
+36,28,60,Downy Mildew
+61,34,71,Stem Borers
+42,32,64,Downy Mildew
+48,27,64,Blast
+57,31,69,Leafhoppers
+47,26,62,Blast
+52,32,74,Blast
+61,33,70,Earworms
+57,34,70,Leafhoppers
+49,27,65,Birds
+74,32,74,Aphids
+53,27,63,Birds
+51,28,63,Grasshoppers
+46,28,73,Downy Mildew
+50,34,60,Blast
+46,33,63,Blast
+48,27,73,Downy Mildew
+80,31,71,Leafhoppers
+52,28,67,Birds
+48,26,65,Blast
+46,33,74,Blast
+71,33,74,Earworms
+65,32,74,Blast
+68,31,71,Earworms
+77,30,67,Stem Borers
+48,29,63,Blast
+46,27,62,Blast
+68,29,75,Downy Mildew
+51,27,63,Grasshoppers
+72,34,75,Blast
+60,32,65,Leafhoppers
+74,33,71,Earworms
+74,28,73,Downy Mildew
+52,26,62,Grasshoppers
+39,29,60,Grasshoppers
+69,31,69,Earworms
+73,33,71,Aphids
+42,28,60,Grasshoppers
+68,34,73,Downy Mildew
+75,31,72,Earworms
+40,27,63,Blast
+52,28,64,Grasshoppers
+64,29,73,Stem Borers
+75,33,71,Stem Borers
+51,29,67,Downy Mildew
+79,33,75,Stem Borers
+45,28,64,Birds
+46,33,71,Earworms
+43,30,72,Blast
+47,28,64,Downy Mildew
+72,33,73,Stem Borers
+48,26,65,Leafhoppers
+71,34,69,Earworms
+50,28,63,Blast
+68,33,75,Downy Mildew
+43,27,61,Grasshoppers
+62,30,63,Blast
+44,27,72,Earworms
+66,33,71,Stem Borers
+49,29,65,Birds
+80,34,75,Aphids
+71,32,72,Earworms
+76,33,73,Aphids
+41,29,62,Blast
+61,33,70,Earworms
+50,29,66,Birds
+44,30,61,Blast
+54,27,67,Birds
+41,26,70,Downy Mildew
+51,26,61,Leafhoppers
+44,27,63,Blast
+49,28,75,Downy Mildew
+48,27,64,Blast
+79,33,72,Stem Borers
+77,34,72,Downy Mildew
+51,31,64,Leafhoppers
+64,33,72,Aphids
+48,27,60,Blast
+52,28,67,Birds
+52,25,60,Leafhoppers
+50,29,64,Downy Mildew
+64,33,71,Blast
+75,33,73,Aphids
+55,32,66,Downy Mildew
+55,27,64,Birds
+76,31,63,Blast
+69,27,71,Aphids
+52,33,66,Downy Mildew
+41,29,64,Downy Mildew
+55,28,65,Downy Mildew
+60,31,60,Leafhoppers
+42,28,62,Aphids
+66,33,70,Aphids
+49,28,63,Downy Mildew
+52,27,71,Blast
+40,27,64,Birds
+47,27,67,Leafhoppers
+41,27,63,Grasshoppers
+39,26,62,Downy Mildew
+48,29,63,Aphids
+43,27,66,Grasshoppers
+52,33,69,Downy Mildew
+69,34,70,Earworms
+44,26,61,Birds
+54,30,65,Birds
+55,32,72,Earworms
+52,28,64,Downy Mildew
+55,28,66,Downy Mildew
+59,27,65,Grasshoppers
+61,31,69,Leafhoppers
+66,32,74,Aphids
+78,34,75,Stem Borers
+54,26,61,Grasshoppers
+63,33,67,Earworms
+80,32,75,Downy Mildew
+80,34,75,Aphids
+61,28,68,Birds
+57,32,72,Leafhoppers
+45,32,63,Grasshoppers
+76,34,72,Downy Mildew
+49,30,64,Downy Mildew
+74,32,71,Stem Borers
+35,27,64,Blast
+80,34,74,Downy Mildew
+47,29,64,Birds
+57,28,64,Birds
+61,32,73,Birds
+63,33,71,Aphids
+50,26,64,Downy Mildew
+43,27,63,Grasshoppers
+77,33,74,Aphids
+73,33,72,Earworms
+62,32,63,Blast
+73,32,70,Earworms
+75,29,67,Downy Mildew
+74,29,66,Downy Mildew
+76,33,71,Earworms
+78,33,75,Aphids
+79,32,70,Earworms
+75,34,74,Stem Borers
+37,28,64,Blast
+80,32,74,Aphids
+44,25,64,Grasshoppers
+64,29,62,Stem Borers
+80,32,69,Leafhoppers
+77,33,74,Aphids
+51,27,62,Birds
+79,32,73,Blast
+44,29,61,Blast
+80,34,71,Aphids
+47,27,70,Earworms
+46,28,63,Blast
+74,31,70,Earworms
+74,31,73,Aphids
+48,29,63,Blast
+42,26,61,Birds
+54,28,65,Downy Mildew
+78,34,72,Downy Mildew
+79,34,75,Downy Mildew
+78,33,69,Aphids
+56,27,66,Grasshoppers
+35,28,60,Downy Mildew
+50,26,63,Grasshoppers
+35,28,62,Blast
+60,25,60,Blast
+47,28,62,Downy Mildew
+43,27,63,Grasshoppers
+74,33,70,Earworms
+77,34,75,Stem Borers
+48,26,61,Birds
+66,34,75,Aphids
+47,32,67,Blast
+68,34,72,Stem Borers
+55,28,73,Downy Mildew
+67,32,72,Aphids
+47,29,65,Downy Mildew
+35,26,60,Blast
+80,32,72,Birds
+55,32,72,Stem Borers
+77,34,73,Downy Mildew
+47,27,63,Blast
+48,30,72,Blast
+78,33,75,Downy Mildew
+77,33,70,Stem Borers
+75,33,70,Blast
+53,26,62,Grasshoppers
+76,34,70,Stem Borers
+42,29,63,Downy Mildew
+72,33,71,Blast
+45,26,60,Grasshoppers
+41,27,62,Blast
+39,26,62,Blast
+51,29,73,Aphids
+46,28,62,Grasshoppers
+80,31,73,Downy Mildew
+46,27,63,Downy Mildew
+45,26,61,Grasshoppers
+40,26,61,Blast
+66,28,68,Stem Borers
+80,31,71,Leafhoppers
+69,34,72,Earworms
+77,32,75,Stem Borers
+39,29,65,Blast
+46,29,74,Blast
+44,29,63,Blast
+47,27,60,Blast
+35,28,61,Blast
+66,28,70,Blast
+45,28,70,Blast
+48,34,66,Blast
+80,33,64,Downy Mildew
+43,32,73,Blast
+45,27,69,Downy Mildew
+46,26,61,Grasshoppers
+50,29,62,Grasshoppers
+43,27,61,Birds
+53,32,71,Leafhoppers
+52,29,71,Blast
+52,34,72,Blast
+48,27,66,Downy Mildew
+65,31,69,Leafhoppers
+80,33,68,Earworms
+76,30,66,Birds
+44,27,61,Blast
+76,34,73,Stem Borers
+51,27,61,Blast
+52,28,72,Downy Mildew
+49,26,60,Birds
+56,29,64,Downy Mildew
+56,31,73,Leafhoppers
+50,33,70,Downy Mildew
+54,27,63,Downy Mildew
+80,34,73,Downy Mildew
+74,31,70,Stem Borers
+42,26,63,Grasshoppers
+59,28,63,Grasshoppers
+59,26,63,Birds
+45,31,75,Downy Mildew
+78,33,69,Blast
+50,29,61,Grasshoppers
+42,29,63,Birds
+52,25,62,Leafhoppers
+47,28,64,Blast
+46,28,67,Blast
+37,27,60,Blast
+69,32,72,Aphids
+51,28,61,Leafhoppers
+68,32,69,Downy Mildew
+52,28,63,Grasshoppers
+44,28,64,Downy Mildew
+48,33,73,Blast
+43,28,73,Birds
+78,32,72,Downy Mildew
+47,33,72,Downy Mildew
+43,27,66,Blast
+51,26,63,Birds
+77,34,72,Stem Borers
+47,29,64,Aphids
+78,34,73,Aphids
+42,25,75,Downy Mildew
+42,27,64,Blast
+51,28,63,Leafhoppers
+59,34,64,Downy Mildew
+54,27,62,Grasshoppers
+75,30,63,Downy Mildew
+55,30,61,Leafhoppers
+57,30,64,Leafhoppers
+64,33,71,Stem Borers
+44,26,63,Leafhoppers
+38,25,63,Blast
+51,30,61,Grasshoppers
+76,32,73,Stem Borers
+44,25,62,Grasshoppers
+46,30,69,Leafhoppers
+54,27,64,Birds
+40,28,61,Blast
+73,33,72,Aphids
+80,33,70,Downy Mildew
+48,26,64,Downy Mildew
+37,27,61,Blast
+77,33,70,Stem Borers
+78,34,72,Blast
+44,27,63,Birds
+41,26,65,Leafhoppers
+66,28,72,Blast
+46,26,63,Blast
+65,34,72,Aphids
+80,33,67,Downy Mildew
+71,33,71,Earworms
+76,34,72,Blast
+52,27,61,Leafhoppers
+49,27,72,Downy Mildew
+77,32,73,Earworms
+80,33,72,Leafhoppers
+50,30,65,Downy Mildew
+65,31,68,Earworms
+76,31,74,Stem Borers
+55,28,64,Downy Mildew
+43,34,72,Blast
+58,28,74,Downy Mildew
+75,34,73,Earworms
+35,26,63,Blast
+56,28,62,Birds
+68,34,69,Earworms
+41,28,66,Birds
+52,29,65,Birds
+46,26,60,Leafhoppers
+48,33,72,Blast
+80,34,73,Stem Borers
+74,33,66,Blast
+50,30,65,Birds
+61,31,64,Blast
+52,25,61,Blast
+42,28,65,Blast
+58,28,62,Downy Mildew
+56,27,64,Downy Mildew
+39,29,67,Blast
+80,34,70,Leafhoppers
+46,28,64,Grasshoppers
+77,28,69,Downy Mildew
+76,31,73,Stem Borers
+50,27,62,Grasshoppers
+44,31,70,Earworms
+42,26,60,Blast
+44,26,62,Leafhoppers
+73,27,66,Blast
+69,34,73,Stem Borers
+45,30,60,Grasshoppers
+48,27,62,Blast
+74,31,69,Earworms
+69,34,75,Aphids
+80,34,75,Stem Borers
+70,34,71,Stem Borers
+66,31,61,Blast
+73,31,70,Stem Borers
+49,28,64,Grasshoppers
+48,32,67,Downy Mildew
+76,34,75,Stem Borers
+70,31,71,Blast
+65,31,72,Leafhoppers
+48,28,66,Downy Mildew
+53,28,63,Grasshoppers
+64,32,73,Earworms
+52,32,73,Birds
+35,26,65,Blast
+56,25,63,Leafhoppers
+66,34,69,Earworms
+67,27,73,Downy Mildew
+64,31,70,Leafhoppers
+52,28,65,Downy Mildew
+36,27,62,Blast
+70,32,69,Earworms
+75,28,74,Downy Mildew
+48,27,71,Blast
+53,29,66,Downy Mildew
+47,26,63,Grasshoppers
+80,34,75,Stem Borers
+40,25,62,Blast
+70,34,73,Aphids
+49,29,64,Grasshoppers
+47,28,65,Grasshoppers
+51,27,60,Grasshoppers
+66,34,69,Earworms
+67,26,73,Earworms
+80,33,72,Downy Mildew
+53,28,63,Blast
+41,29,61,Downy Mildew
+59,31,61,Leafhoppers
+68,34,71,Aphids
+49,28,65,Downy Mildew
+69,34,67,Downy Mildew
+76,33,73,Aphids
+77,32,72,Leafhoppers
+71,34,69,Stem Borers
+42,27,66,Blast
+41,28,71,Blast
+69,33,70,Earworms
+49,31,72,Leafhoppers
+56,27,62,Leafhoppers
+59,30,64,Downy Mildew
+35,27,62,Blast
+51,29,62,Blast
+44,32,72,Earworms
+77,33,75,Aphids
+80,34,73,Blast
+42,34,71,Earworms
+38,26,63,Blast
+50,29,63,Birds
+42,28,60,Grasshoppers
+60,31,63,Blast
+75,34,72,Stem Borers
+49,29,65,Blast
+41,29,65,Aphids
+40,30,64,Grasshoppers
+45,29,65,Birds
+70,34,74,Aphids
+51,28,62,Leafhoppers
+70,33,75,Aphids
+78,32,68,Leafhoppers
+72,33,72,Aphids
+79,33,74,Stem Borers
+80,32,70,Leafhoppers
+78,34,75,Stem Borers
+54,29,66,Downy Mildew
+53,28,73,Blast
+68,31,70,Aphids
+38,26,64,Blast
+80,34,74,Stem Borers
+76,34,71,Downy Mildew
+74,33,69,Earworms
+43,26,64,Downy Mildew
+42,29,62,Downy Mildew
+54,34,72,Downy Mildew
+53,28,65,Grasshoppers
+75,31,71,Blast
+80,31,69,Leafhoppers
+37,28,62,Downy Mildew
+58,34,67,Downy Mildew
+47,26,62,Grasshoppers
+78,31,74,Downy Mildew
+78,33,74,Stem Borers
+79,34,71,Aphids
+50,29,66,Birds
+68,32,69,Blast
+44,31,63,Aphids
+48,26,62,Birds
+49,28,62,Leafhoppers
+53,26,66,Grasshoppers
+54,28,65,Birds
+71,31,70,Earworms
+65,32,71,Leafhoppers
+67,32,71,Aphids
+42,25,63,Blast
+75,32,70,Aphids
+47,26,63,Birds
+51,27,60,Blast
+68,32,69,Earworms
+47,32,67,Earworms
+72,34,69,Birds
+69,31,73,Stem Borers
+80,33,75,Downy Mildew
+43,26,63,Birds
+71,31,75,Aphids
+41,29,63,Grasshoppers
+68,34,73,Earworms
+50,28,65,Downy Mildew
+39,30,60,Grasshoppers
+59,33,65,Birds
+67,34,70,Stem Borers
+68,32,73,Birds
+53,32,63,Leafhoppers
+60,34,74,Blast
+48,30,70,Leafhoppers
+64,31,71,Leafhoppers
+53,27,62,Blast
+73,31,74,Blast
+46,30,63,Birds
+52,33,75,Blast
+69,29,67,Birds
+46,28,64,Downy Mildew
+48,30,73,Downy Mildew
+79,34,70,Stem Borers
+51,27,66,Downy Mildew
+52,27,66,Birds
+74,33,70,Earworms
+65,33,72,Earworms
+70,33,74,Earworms
+40,25,64,Birds
+35,27,63,Blast
+68,32,72,Stem Borers
+69,32,66,Blast
+49,28,67,Grasshoppers
+74,34,74,Earworms
+75,31,74,Blast
+47,28,60,Downy Mildew
+56,31,65,Downy Mildew
+71,34,75,Stem Borers
+52,31,69,Downy Mildew
+75,34,73,Downy Mildew
+57,33,73,Downy Mildew
+52,31,62,Leafhoppers
+53,27,61,Blast
+58,28,64,Birds
+48,31,62,Leafhoppers
+72,27,70,Blast
+75,31,72,Aphids
+57,25,72,Leafhoppers
+50,25,63,Birds
+50,28,64,Downy Mildew
+54,29,66,Downy Mildew
+42,25,62,Grasshoppers
+77,28,72,Downy Mildew
+72,34,69,Earworms
+53,25,61,Leafhoppers
+58,33,69,Stem Borers
+73,32,69,Earworms
+65,31,67,Earworms
+56,33,69,Aphids
+77,30,69,Earworms
+80,34,75,Downy Mildew
+71,32,71,Stem Borers
+53,28,61,Blast
+58,34,64,Aphids
+74,34,73,Stem Borers
+48,27,71,Downy Mildew
+46,26,65,Grasshoppers
+44,26,65,Birds
+52,28,62,Grasshoppers
+58,31,63,Leafhoppers
+78,32,66,Downy Mildew
+44,28,63,Grasshoppers
+48,29,64,Grasshoppers
+48,32,64,Blast
+74,34,70,Aphids
+46,26,67,Birds
+80,32,69,Leafhoppers
+73,33,72,Earworms
+40,33,60,Blast
+41,29,64,Downy Mildew
+46,29,63,Birds
+47,29,65,Downy Mildew
+35,28,63,Blast
+40,25,61,Blast
+75,34,68,Aphids
+58,34,73,Downy Mildew
+42,32,61,Downy Mildew
+70,33,71,Blast
+44,30,63,Grasshoppers
+70,33,74,Aphids
+67,34,73,Downy Mildew
+68,34,72,Aphids
+69,33,73,Aphids
+75,32,72,Aphids
+80,32,72,Earworms
+75,32,71,Aphids
+58,32,60,Leafhoppers
+44,28,67,Grasshoppers
+56,32,72,Leafhoppers
+69,32,70,Earworms
+35,26,65,Aphids
+69,30,73,Blast
+57,29,64,Grasshoppers
+50,26,64,Downy Mildew
+80,32,66,Stem Borers
+80,33,74,Downy Mildew
+71,34,71,Stem Borers
+52,29,69,Blast
+57,26,63,Leafhoppers
+42,27,65,Downy Mildew
+39,28,60,Grasshoppers
+42,29,60,Grasshoppers
+76,31,73,Earworms
+67,33,70,Blast
+68,32,71,Earworms
+63,29,63,Birds
+72,32,73,Aphids
+41,29,61,Grasshoppers
+76,34,71,Downy Mildew
+55,28,66,Birds
+54,26,62,Birds
+74,34,74,Downy Mildew
+46,27,61,Leafhoppers
+50,25,62,Birds
+80,31,69,Downy Mildew
+47,28,64,Downy Mildew
+74,33,73,Downy Mildew
+45,27,63,Stem Borers
+80,33,71,Leafhoppers
+58,26,68,Downy Mildew
+50,27,64,Grasshoppers
+46,28,64,Grasshoppers
+61,34,68,Earworms
+75,31,71,Stem Borers
+49,25,61,Leafhoppers
+43,27,63,Grasshoppers
+58,28,65,Downy Mildew
+41,26,60,Blast
+72,34,74,Aphids
+73,33,75,Aphids
+78,33,75,Stem Borers
+68,27,73,Blast
+47,26,66,Downy Mildew
+54,27,62,Leafhoppers
+36,27,62,Blast
+45,26,66,Leafhoppers
+54,32,63,Earworms
+52,27,63,Leafhoppers
+80,34,73,Stem Borers
+47,28,62,Blast
+51,34,74,Downy Mildew
+73,34,72,Downy Mildew
+63,32,73,Aphids
+38,26,61,Grasshoppers
+44,29,62,Grasshoppers
+40,33,63,Stem Borers
+80,34,73,Aphids
+79,27,66,Downy Mildew
+48,27,65,Birds
+45,32,73,Blast
+73,28,64,Aphids
+51,27,62,Birds
+40,28,62,Birds
+42,28,64,Birds
+71,33,70,Aphids
+42,27,61,Downy Mildew
+67,33,71,Blast
+70,34,73,Earworms
+56,27,63,Grasshoppers
+80,33,75,Aphids
+50,31,70,Leafhoppers
+52,27,61,Downy Mildew
+64,33,70,Earworms
+74,31,71,Blast
+50,30,65,Leafhoppers
+78,26,72,Downy Mildew
+45,34,70,Blast
+65,26,61,Blast
+70,31,74,Stem Borers
+52,29,63,Blast
+49,27,63,Blast
+43,25,62,Blast
+80,32,72,Aphids
+57,34,73,Downy Mildew
+79,32,74,Stem Borers
+66,26,75,Stem Borers
+52,32,72,Downy Mildew
+79,34,75,Downy Mildew
+44,27,64,Downy Mildew
+37,31,71,Blast
+36,27,60,Birds
+39,27,62,Grasshoppers
+75,34,74,Stem Borers
+57,34,74,Downy Mildew
+43,25,62,Downy Mildew
+47,28,72,Downy Mildew
+52,31,62,Grasshoppers
+48,27,64,Birds
+80,34,75,Stem Borers
+80,34,71,Stem Borers
+56,27,66,Birds
+49,29,64,Downy Mildew
+46,27,62,Blast
+74,33,73,Blast
+79,34,75,Stem Borers
+53,28,65,Grasshoppers
+73,31,73,Blast
+53,26,64,Leafhoppers
+48,29,60,Blast
+73,34,70,Downy Mildew
+55,34,71,Downy Mildew
+41,27,63,Grasshoppers
+55,31,70,Leafhoppers
+48,26,60,Blast
+47,27,67,Downy Mildew
+50,27,66,Blast
+80,33,75,Aphids
+70,33,71,Aphids
+56,28,64,Blast
+53,26,62,Leafhoppers
+76,34,71,Stem Borers
+74,34,75,Aphids
+44,28,62,Grasshoppers
+80,34,73,Stem Borers
+80,34,71,Stem Borers
+57,27,73,Blast
+40,27,62,Grasshoppers
+75,31,75,Earworms
+77,34,74,Stem Borers
+71,32,74,Blast
+57,31,70,Leafhoppers
+80,34,69,Stem Borers
+80,29,75,Downy Mildew
+69,32,71,Blast
+64,33,70,Blast
+66,32,73,Stem Borers
+74,33,71,Blast
+48,28,65,Downy Mildew
+47,29,69,Earworms
+73,34,71,Stem Borers
+53,28,71,Blast
+78,33,70,Downy Mildew
+78,33,72,Stem Borers
+78,32,71,Leafhoppers
+45,28,64,Grasshoppers
+73,28,65,Downy Mildew
+49,29,62,Birds
+55,29,73,Leafhoppers
+39,27,64,Earworms
+40,29,71,Earworms
+69,33,73,Stem Borers
+42,33,70,Downy Mildew
+75,33,75,Aphids
+80,31,74,Stem Borers
+44,26,63,Blast
+50,27,60,Aphids
+73,33,69,Earworms
+65,32,74,Blast
+72,34,71,Earworms
+49,27,64,Birds
+60,28,62,Blast
+75,26,69,Earworms
+77,33,75,Blast
+50,29,61,Grasshoppers
+80,33,75,Aphids
+71,34,65,Blast
+35,29,64,Grasshoppers
+70,32,70,Earworms
+71,32,72,Blast
+43,28,65,Downy Mildew
+50,27,67,Birds
+50,28,67,Downy Mildew
+57,31,63,Leafhoppers
+44,30,63,Downy Mildew
+52,26,66,Birds
+53,28,64,Birds
+48,27,65,Birds
+78,34,73,Aphids
+50,26,65,Birds
+74,33,75,Aphids
+59,29,66,Birds
+47,29,63,Grasshoppers
+53,27,64,Downy Mildew
+45,33,68,Earworms
+38,28,62,Blast
+76,33,75,Aphids
+44,26,66,Earworms
+47,33,72,Downy Mildew
+78,34,75,Aphids
+80,32,75,Aphids
+45,29,62,Downy Mildew
+80,34,75,Downy Mildew
+43,28,63,Grasshoppers
+56,30,61,Leafhoppers
+73,32,71,Aphids
+51,29,62,Grasshoppers
+76,33,71,Earworms
+44,27,62,Birds
+50,31,75,Blast
+46,27,65,Grasshoppers
+80,32,72,Downy Mildew
+48,28,62,Birds
+80,34,75,Aphids
+57,29,70,Leafhoppers
+52,28,62,Downy Mildew
+52,29,62,Birds
+73,33,73,Downy Mildew
+52,27,65,Grasshoppers
+43,26,61,Blast
+49,28,64,Downy Mildew
+56,27,63,Birds
+74,34,71,Earworms
+75,29,72,Earworms
+80,28,66,Downy Mildew
+49,26,73,Downy Mildew
+72,31,70,Earworms
+50,30,69,Leafhoppers
+56,27,73,Downy Mildew
+57,28,62,Grasshoppers
+64,28,64,Downy Mildew
+74,31,65,Blast
+80,32,71,Leafhoppers
+41,29,60,Grasshoppers
+80,34,75,Stem Borers
+77,33,70,Stem Borers
+54,27,63,Birds
+74,32,71,Stem Borers
+77,29,70,Aphids
+64,33,71,Stem Borers
+50,27,61,Blast
+54,33,72,Stem Borers
+45,33,69,Earworms
+52,34,66,Earworms
+76,33,72,Aphids
+64,32,74,Earworms
+42,26,65,Birds
+41,29,60,Downy Mildew
+71,34,72,Earworms
+47,28,64,Downy Mildew
+65,33,68,Earworms
+80,33,71,Earworms
+45,27,61,Grasshoppers
+47,28,65,Grasshoppers
+80,34,75,Downy Mildew
+42,33,66,Blast
+74,33,73,Aphids
+49,28,64,Downy Mildew
+55,27,60,Birds
+39,27,61,Downy Mildew
+48,29,66,Downy Mildew
+60,33,66,Birds
+52,27,61,Blast
+73,34,64,Downy Mildew
+74,28,73,Stem Borers
+41,29,63,Downy Mildew
+74,33,69,Earworms
+43,29,71,Earworms
+67,34,73,Stem Borers
+49,34,69,Earworms
+74,33,73,Aphids
+35,32,67,Earworms
+80,28,70,Blast
+74,28,71,Blast
+50,28,65,Downy Mildew
+78,32,70,Stem Borers
+58,26,63,Grasshoppers
+55,32,75,Downy Mildew
+75,32,75,Aphids
+74,33,74,Stem Borers
+52,29,65,Birds
+67,33,72,Stem Borers
+44,28,62,Blast
+73,33,73,Earworms
+58,32,71,Earworms
+44,27,64,Birds
+78,34,69,Earworms
+79,33,74,Aphids
+48,27,61,Blast
+74,32,75,Aphids
+75,34,75,Stem Borers
+74,27,72,Aphids
+63,34,74,Downy Mildew
+36,27,65,Blast
+49,28,62,Grasshoppers
+52,28,61,Downy Mildew
+48,27,61,Blast
+43,26,64,Birds
+67,28,71,Stem Borers
+80,32,74,Leafhoppers
+44,29,67,Blast
+44,28,63,Grasshoppers
+38,26,62,Birds
+59,28,64,Birds
+41,32,61,Blast
+44,27,63,Leafhoppers
+75,33,72,Earworms
+51,28,65,Downy Mildew
+46,27,66,Birds
+67,32,73,Aphids
+66,27,66,Stem Borers
+64,34,73,Earworms
+50,27,64,Blast
+69,34,61,Aphids
+45,26,64,Blast
+76,34,74,Aphids
+77,34,75,Stem Borers
+67,34,72,Aphids
+67,33,70,Earworms
+40,27,71,Blast
+51,28,62,Grasshoppers
+79,33,72,Aphids
+44,29,64,Downy Mildew
+62,32,60,Leafhoppers
+47,28,64,Birds
+47,28,62,Blast
+61,32,71,Leafhoppers
+47,30,65,Grasshoppers
+48,28,64,Blast
+80,28,67,Downy Mildew
+46,27,61,Grasshoppers
+79,32,75,Stem Borers
+75,34,70,Stem Borers
+75,31,73,Blast
+43,28,63,Grasshoppers
+67,34,72,Stem Borers
+43,28,62,Downy Mildew
+40,31,72,Leafhoppers
+62,32,74,Stem Borers
+61,32,70,Blast
+43,31,73,Blast
+70,33,71,Aphids
+38,26,63,Downy Mildew
+67,34,70,Earworms
+70,33,71,Earworms
+38,26,63,Grasshoppers
+80,33,73,Aphids
+57,29,63,Grasshoppers
+41,29,62,Grasshoppers
+50,28,62,Blast
+48,28,62,Blast
+51,31,63,Leafhoppers
+59,30,66,Downy Mildew
+50,28,62,Grasshoppers
+74,32,73,Aphids
+56,32,70,Downy Mildew
+74,34,72,Stem Borers
+67,30,66,Leafhoppers
+44,26,60,Grasshoppers
+69,33,71,Aphids
+68,32,72,Earworms
+80,31,72,Leafhoppers
+53,33,73,Downy Mildew
+80,30,70,Leafhoppers
+73,26,65,Blast
+71,33,72,Blast
+42,29,66,Aphids
+80,33,74,Downy Mildew
+80,31,72,Leafhoppers
+50,34,63,Blast
+43,27,62,Grasshoppers
+76,32,73,Stem Borers
+35,27,61,Blast
+57,30,63,Leafhoppers
+80,34,75,Downy Mildew
+67,33,62,Stem Borers
+57,31,66,Downy Mildew
+65,31,74,Leafhoppers
+67,29,69,Earworms
+62,31,73,Leafhoppers
+49,25,60,Blast
+73,34,72,Blast
+59,32,73,Leafhoppers
+44,27,63,Grasshoppers
+73,33,73,Aphids
+40,25,63,Grasshoppers
+50,26,65,Blast
+73,28,73,Blast
+69,32,75,Aphids
+80,28,69,Leafhoppers
+57,29,63,Grasshoppers
+63,32,72,Aphids
+58,26,63,Leafhoppers
+70,34,72,Blast
+71,33,71,Earworms
+46,28,65,Birds
+70,33,73,Downy Mildew
+50,27,63,Downy Mildew
+55,28,61,Grasshoppers
+75,33,73,Aphids
+42,29,64,Blast
+46,28,70,Blast
+45,27,65,Downy Mildew
+74,32,73,Aphids
+70,33,74,Stem Borers
+56,32,75,Downy Mildew
+53,31,61,Blast
+39,28,62,Grasshoppers
+77,32,70,Downy Mildew
+52,33,74,Stem Borers
+55,27,66,Grasshoppers
+54,28,61,Blast
+43,28,64,Birds
+76,29,62,Blast
+51,31,63,Earworms
+75,34,69,Blast
+39,34,70,Blast
+50,28,61,Birds
+52,27,63,Leafhoppers
+43,32,73,Blast
+58,29,63,Grasshoppers
+78,32,72,Earworms
+47,27,64,Downy Mildew
+72,34,72,Stem Borers
+45,28,63,Blast
+63,29,61,Blast
+50,25,65,Blast
+45,28,67,Earworms
+56,32,63,Aphids
+42,27,70,Blast
+69,33,71,Earworms
+50,25,62,Leafhoppers
+47,25,60,Leafhoppers
+80,34,75,Downy Mildew
+55,27,64,Grasshoppers
+51,34,71,Blast
+65,31,75,Aphids
+51,30,62,Grasshoppers
+41,28,65,Blast
+41,29,64,Downy Mildew
+77,27,65,Aphids
+42,27,71,Leafhoppers
+52,28,64,Grasshoppers
+71,32,75,Aphids
+48,28,66,Grasshoppers
+68,27,65,Leafhoppers
+66,33,70,Aphids
+39,28,61,Blast
+44,32,63,Blast
+78,34,74,Stem Borers
+45,29,66,Downy Mildew
+56,28,75,Downy Mildew
+42,25,64,Birds
+39,32,61,Blast
+80,34,73,Downy Mildew
+77,31,74,Stem Borers
+44,30,63,Downy Mildew
+76,34,74,Aphids
+71,27,73,Aphids
+71,32,72,Blast
+67,33,72,Downy Mildew
+47,27,66,Birds
+79,34,71,Stem Borers
+52,30,62,Grasshoppers
+45,28,61,Leafhoppers
+64,32,75,Stem Borers
+68,33,70,Earworms
+80,34,75,Aphids
+58,34,73,Downy Mildew
+47,25,64,Leafhoppers
+41,27,63,Birds
+55,27,72,Grasshoppers
+62,33,74,Downy Mildew
+57,25,63,Blast
+80,33,69,Stem Borers
+79,32,74,Aphids
+54,33,71,Downy Mildew
+45,34,70,Blast
+47,32,71,Leafhoppers
+59,33,71,Leafhoppers
+42,26,63,Blast
+76,34,74,Downy Mildew
+50,27,74,Downy Mildew
+58,32,60,Leafhoppers
+80,34,75,Aphids
+73,34,74,Aphids
+35,28,60,Blast
+58,30,71,Leafhoppers
+78,30,66,Downy Mildew
+65,28,73,Blast
+46,28,63,Aphids
+72,33,70,Earworms
+57,27,61,Leafhoppers
+71,31,70,Blast
+66,29,61,Downy Mildew
+49,30,67,Downy Mildew
+75,33,72,Earworms
+75,34,65,Downy Mildew
+55,26,71,Leafhoppers
+72,32,70,Earworms
+46,28,65,Grasshoppers
+80,34,75,Downy Mildew
+35,27,60,Blast
+74,34,71,Downy Mildew
+77,34,72,Earworms
+48,33,66,Downy Mildew
+46,27,67,Blast
+78,34,73,Downy Mildew
+48,26,63,Birds
+67,31,70,Stem Borers
+55,33,65,Downy Mildew
+39,26,62,Blast
+54,28,66,Downy Mildew
+59,27,67,Birds
+56,32,64,Downy Mildew
+80,31,74,Blast
+41,28,67,Earworms
+44,25,60,Grasshoppers
+52,26,70,Grasshoppers
+80,32,69,Leafhoppers
+79,33,71,Earworms
+64,34,74,Downy Mildew
+56,28,64,Birds
+78,32,75,Leafhoppers
+76,34,72,Downy Mildew
+71,34,74,Downy Mildew
+70,34,74,Aphids
+53,32,63,Birds
+75,34,72,Aphids
+44,29,67,Downy Mildew
+40,27,61,Blast
+75,32,75,Downy Mildew
+48,27,63,Downy Mildew
+51,27,66,Grasshoppers
+41,25,61,Blast
+49,26,63,Leafhoppers
+42,29,62,Grasshoppers
+48,26,64,Grasshoppers
+67,32,61,Aphids
+80,34,74,Aphids
+58,32,66,Downy Mildew
+80,33,75,Birds
+72,34,71,Blast
+75,33,75,Downy Mildew
+39,27,62,Grasshoppers
+68,34,63,Aphids
+65,26,71,Leafhoppers
+72,34,73,Blast
+69,28,66,Birds
+36,27,61,Birds
+58,34,73,Downy Mildew
+70,33,75,Stem Borers
+80,31,71,Aphids
+43,28,60,Blast
+80,34,74,Stem Borers
+48,26,63,Grasshoppers
+42,27,64,Blast
+74,34,71,Downy Mildew
+53,28,72,Aphids
+62,28,63,Birds
+38,26,60,Birds
+80,33,72,Blast
+43,31,74,Stem Borers
+44,28,63,Birds
+71,34,72,Aphids
+68,33,75,Stem Borers
+43,26,60,Blast
+74,34,75,Stem Borers
+79,33,70,Downy Mildew
+73,34,72,Stem Borers
+67,34,73,Leafhoppers
+77,33,74,Stem Borers
+57,33,74,Downy Mildew
+76,34,75,Stem Borers
+58,32,61,Leafhoppers
+41,27,62,Blast
+46,28,63,Downy Mildew
+54,28,62,Downy Mildew
+75,34,72,Aphids
+50,28,63,Blast
+45,27,63,Grasshoppers
+69,33,73,Aphids
+44,27,63,Grasshoppers
+53,27,60,Grasshoppers
+67,31,69,Earworms
+48,25,63,Downy Mildew
+74,33,75,Stem Borers
+40,27,62,Downy Mildew
+42,26,66,Grasshoppers
+70,33,71,Aphids
+53,27,64,Birds
+52,26,61,Blast
+57,29,61,Downy Mildew
+49,33,64,Blast
+48,32,62,Blast
+51,29,65,Downy Mildew
+80,33,75,Leafhoppers
+75,33,73,Aphids
+80,31,72,Downy Mildew
+67,34,75,Stem Borers
+41,28,69,Blast
+45,27,62,Grasshoppers
+73,33,71,Stem Borers
+80,34,75,Downy Mildew
+53,26,62,Downy Mildew
+80,30,71,Blast
+67,32,74,Leafhoppers
+50,33,74,Leafhoppers
+68,34,68,Stem Borers
+60,33,72,Blast
+39,27,61,Blast
+76,33,75,Aphids
+38,27,62,Blast
+53,27,63,Blast
+80,34,74,Stem Borers
+52,27,65,Grasshoppers
+71,34,73,Aphids
+50,29,64,Blast
+65,34,73,Birds
+71,27,62,Aphids
+75,32,74,Leafhoppers
+55,32,71,Earworms
+55,34,73,Downy Mildew
+47,28,62,Downy Mildew
+49,27,63,Blast
+68,32,73,Earworms
+72,32,70,Blast
+48,29,65,Downy Mildew
+71,33,71,Earworms
+60,33,71,Earworms
+71,34,75,Downy Mildew
+59,28,64,Aphids
+80,33,71,Downy Mildew
+40,29,64,Downy Mildew
+46,26,61,Blast
+40,28,64,Downy Mildew
+77,34,70,Stem Borers
+61,28,66,Aphids
+57,28,62,Grasshoppers
+59,28,65,Downy Mildew
+80,27,69,Leafhoppers
+51,33,75,Downy Mildew
+79,34,75,Downy Mildew
+47,28,62,Grasshoppers
+72,32,71,Blast
+51,28,68,Grasshoppers
+66,33,71,Earworms
+79,34,74,Downy Mildew
+48,27,61,Grasshoppers
+44,28,72,Blast
+43,30,73,Blast
+47,25,64,Blast
+41,31,64,Blast
+57,28,75,Downy Mildew
+63,32,72,Aphids
+53,27,64,Downy Mildew
+51,33,70,Birds
+72,32,74,Stem Borers
+80,33,65,Downy Mildew
+80,32,72,Aphids
+57,31,68,Leafhoppers
+77,28,67,Blast
+51,32,62,Downy Mildew
+55,27,69,Downy Mildew
+48,26,62,Birds
+78,32,72,Downy Mildew
+57,32,69,Grasshoppers
+40,27,63,Birds
+76,33,71,Earworms
+39,29,63,Grasshoppers
+53,32,63,Birds
+36,28,66,Birds
+48,28,66,Downy Mildew
+65,34,75,Stem Borers
+69,30,74,Downy Mildew
+72,34,71,Aphids
+43,27,63,Grasshoppers
+45,28,71,Blast
+45,29,64,Downy Mildew
+51,33,68,Downy Mildew
+80,34,75,Grasshoppers
+55,28,62,Grasshoppers
+57,29,62,Downy Mildew
+49,33,62,Earworms
+64,32,70,Downy Mildew
+52,27,64,Birds
+45,27,63,Blast
+55,32,72,Leafhoppers
+54,32,70,Leafhoppers
+52,26,64,Birds
+51,27,73,Blast
+51,28,63,Blast
+56,27,64,Downy Mildew
+48,34,67,Earworms
+49,26,60,Blast
+51,27,73,Blast
+47,26,64,Grasshoppers
+47,33,72,Blast
+67,34,75,Aphids
+50,27,67,Grasshoppers
+76,33,73,Earworms
+67,34,65,Downy Mildew
+49,28,60,Stem Borers
+68,32,68,Earworms
+71,27,65,Downy Mildew
+62,34,75,Downy Mildew
+48,32,65,Earworms
+48,28,62,Grasshoppers
+38,27,60,Leafhoppers
+53,27,63,Leafhoppers
+67,34,74,Stem Borers
+53,33,73,Blast
+58,26,63,Leafhoppers
+51,33,74,Blast
+77,32,71,Aphids
+57,26,62,Grasshoppers
+71,34,70,Blast
+80,34,73,Downy Mildew
+43,28,61,Grasshoppers
+51,29,68,Downy Mildew
+38,26,64,Grasshoppers
+46,28,63,Blast
+67,31,72,Stem Borers
+80,34,71,Stem Borers
+73,34,72,Aphids
+41,26,60,Blast
+44,28,65,Birds
+46,32,71,Aphids
+47,25,64,Birds
+72,34,71,Stem Borers
+54,29,62,Leafhoppers
+69,33,68,Earworms
+76,34,71,Earworms
+52,26,62,Grasshoppers
+49,27,63,Blast
+40,27,60,Blast
+80,27,64,Blast
+80,33,72,Downy Mildew
+45,28,64,Blast
+80,32,72,Stem Borers
+63,32,71,Earworms
+75,32,74,Aphids
+65,34,71,Earworms
+48,27,62,Downy Mildew
+79,32,72,Leafhoppers
+36,26,62,Blast
+64,30,73,Leafhoppers
+45,27,60,Blast
+35,34,61,Downy Mildew
+66,34,72,Aphids
+69,34,72,Stem Borers
+43,26,63,Blast
+46,26,63,Birds
+72,32,74,Aphids
+71,32,70,Blast
+72,32,74,Blast
+77,33,71,Aphids
+76,32,71,Aphids
+47,25,60,Downy Mildew
+48,28,64,Birds
+46,28,64,Grasshoppers
+38,26,62,Blast
+42,29,65,Grasshoppers
+78,33,75,Stem Borers
+62,28,73,Downy Mildew
+74,32,72,Downy Mildew
+46,28,74,Downy Mildew
+48,27,65,Downy Mildew
+50,33,62,Birds
+79,33,71,Aphids
+73,34,71,Aphids
+63,34,71,Stem Borers
+53,27,71,Downy Mildew
+71,33,73,Earworms
+54,26,61,Grasshoppers
+51,32,65,Leafhoppers
+80,34,74,Stem Borers
+45,27,64,Grasshoppers
+57,28,63,Birds
+35,27,62,Blast
+76,33,68,Earworms
+70,34,71,Earworms
+49,27,62,Grasshoppers
+71,34,75,Aphids
+49,26,73,Leafhoppers
+60,34,70,Earworms
+50,34,72,Blast
+58,28,64,Downy Mildew
+38,27,61,Blast
+52,27,61,Leafhoppers
+47,27,61,Grasshoppers
+71,31,69,Earworms
+53,27,70,Earworms
+67,34,75,Stem Borers
+43,29,63,Downy Mildew
+45,31,74,Blast
+68,33,67,Aphids
+51,33,63,Blast
+51,29,64,Birds
+65,27,61,Downy Mildew
+69,32,74,Earworms
+80,34,73,Aphids
+52,28,64,Blast
+39,28,61,Blast
+60,32,65,Birds
+39,28,61,Grasshoppers
+80,34,72,Blast
+51,27,62,Downy Mildew
+53,31,68,Leafhoppers
+51,31,60,Grasshoppers
+50,27,65,Grasshoppers
+52,31,74,Downy Mildew
+48,29,65,Downy Mildew
+77,33,73,Aphids
+68,32,69,Stem Borers
+62,31,67,Earworms
+57,31,64,Downy Mildew
+79,33,75,Aphids
+47,28,62,Blast
+75,33,71,Aphids
+56,27,64,Grasshoppers
+49,27,64,Downy Mildew
+79,33,71,Blast
+36,27,64,Grasshoppers
+51,26,62,Birds
+80,33,71,Aphids
+80,33,73,Aphids
+41,28,60,Grasshoppers
+76,31,71,Stem Borers
+72,33,70,Aphids
+37,27,61,Blast
+75,33,72,Stem Borers
+40,26,70,Earworms
+68,32,69,Earworms
+69,31,75,Blast
+44,27,72,Earworms
+51,25,72,Blast
+50,34,71,Birds
+71,33,70,Stem Borers
+42,28,62,Blast
+75,31,68,Aphids
+43,29,64,Downy Mildew
+50,29,64,Blast
+49,27,63,Blast
+59,27,63,Birds
+50,32,64,Blast
+55,26,63,Downy Mildew
+68,30,74,Stem Borers
+80,32,69,Leafhoppers
+48,29,63,Grasshoppers
+76,31,72,Stem Borers
+67,32,73,Stem Borers
+42,28,60,Blast
+55,28,62,Leafhoppers
+75,34,74,Stem Borers
+72,31,73,Aphids
+51,27,61,Blast
+55,33,60,Leafhoppers
+80,34,75,Downy Mildew
+80,33,75,Downy Mildew
+59,30,74,Downy Mildew
+66,33,72,Earworms
+45,27,63,Birds
+73,34,72,Downy Mildew
+56,32,73,Downy Mildew
+36,27,62,Blast
+76,33,70,Blast
+49,28,75,Downy Mildew
+51,32,65,Grasshoppers
+48,27,65,Downy Mildew
+71,33,73,Aphids
+55,29,61,Birds
+47,33,72,Stem Borers
+52,27,61,Downy Mildew
+56,34,71,Blast
+78,33,73,Earworms
+68,31,71,Aphids
+39,28,62,Blast
+71,33,71,Aphids
+50,33,75,Downy Mildew
+71,34,71,Stem Borers
+61,28,63,Downy Mildew
+76,31,71,Downy Mildew
+57,33,73,Leafhoppers
+56,28,75,Downy Mildew
+62,31,73,Downy Mildew
+64,26,66,Leafhoppers
+77,28,63,Downy Mildew
+41,31,62,Blast
+44,27,61,Blast
+53,34,67,Birds
+69,33,71,Blast
+46,31,74,Blast
+54,33,66,Downy Mildew
+50,27,63,Downy Mildew
+43,29,73,Blast
+80,32,70,Earworms
+75,34,73,Blast
+54,29,70,Leafhoppers
+73,34,75,Stem Borers
+40,29,62,Downy Mildew
+66,34,71,Stem Borers
+63,32,72,Aphids
+51,29,60,Blast
+57,29,67,Downy Mildew
+38,31,71,Blast
+68,33,64,Blast
+52,28,72,Downy Mildew
+49,27,62,Blast
+49,27,63,Birds
+36,28,61,Blast
+45,28,62,Downy Mildew
+36,27,63,Birds
+40,29,63,Downy Mildew
+78,34,75,Aphids
+73,32,72,Blast
+80,34,72,Downy Mildew
+63,28,72,Earworms
+49,28,64,Downy Mildew
+74,33,68,Earworms
+50,33,60,Downy Mildew
+59,34,64,Downy Mildew
+75,34,73,Downy Mildew
+66,33,69,Stem Borers
+80,31,71,Blast
+55,27,62,Grasshoppers
+61,30,68,Leafhoppers
+48,29,67,Downy Mildew
+69,30,72,Aphids
+52,32,75,Blast
+66,33,71,Earworms
+42,27,63,Downy Mildew
+74,32,72,Aphids
+47,33,73,Blast
+68,34,75,Stem Borers
+69,34,69,Stem Borers
+37,25,65,Birds
+55,27,73,Blast
+71,34,69,Earworms
+72,34,72,Stem Borers
+41,26,60,Downy Mildew
+44,26,61,Birds
+79,33,69,Earworms
+67,34,73,Earworms
+39,27,62,Blast
+50,25,61,Leafhoppers
+45,27,65,Grasshoppers
+54,28,65,Downy Mildew
+51,28,64,Birds
+38,28,65,Blast
+67,33,71,Aphids
+80,33,74,Blast
+73,34,72,Aphids
+42,28,64,Blast
+70,34,75,Aphids
+60,31,70,Leafhoppers
+40,25,63,Blast
+54,33,64,Blast
+49,29,64,Downy Mildew
+80,33,72,Blast
+43,27,60,Grasshoppers
+43,31,63,Blast
+78,29,67,Downy Mildew
+58,25,63,Birds
+78,33,74,Stem Borers
+35,30,64,Downy Mildew
+74,32,73,Stem Borers
+53,29,63,Birds
+70,34,75,Aphids
+78,34,74,Blast
+71,33,72,Blast
+75,31,70,Earworms
+46,28,63,Downy Mildew
+77,31,74,Aphids
+67,34,74,Stem Borers
+44,32,71,Blast
+57,28,63,Leafhoppers
+40,28,66,Birds
+70,33,72,Stem Borers
+69,34,72,Stem Borers
+44,27,61,Grasshoppers
+42,34,67,Stem Borers
+69,34,73,Aphids
+49,31,65,Blast
+52,28,63,Birds
+57,28,72,Downy Mildew
+41,29,60,Grasshoppers
+47,28,63,Grasshoppers
+78,29,74,Downy Mildew
+66,27,63,Earworms
+56,29,65,Leafhoppers
+49,28,62,Grasshoppers
+70,34,71,Earworms
+44,31,62,Earworms
+66,32,73,Earworms
+72,33,71,Earworms
+75,31,67,Stem Borers
+45,28,63,Grasshoppers
+44,28,63,Downy Mildew
+56,30,74,Leafhoppers
+78,32,72,Aphids
+80,30,70,Blast
+48,27,63,Grasshoppers
+46,29,64,Grasshoppers
+46,31,69,Blast
+78,32,74,Stem Borers
+56,30,60,Leafhoppers
+80,33,71,Stem Borers
+73,33,74,Blast
+54,28,66,Birds
+59,29,62,Grasshoppers
+56,28,67,Grasshoppers
+75,32,72,Stem Borers
+80,31,74,Aphids
+80,34,75,Stem Borers
+66,30,69,Leafhoppers
+47,25,62,Blast
+41,27,62,Birds
+43,32,70,Earworms
+68,32,71,Earworms
+71,31,70,Earworms
+80,28,72,Downy Mildew
+60,30,62,Leafhoppers
+80,34,72,Downy Mildew
+37,26,63,Grasshoppers
+49,28,61,Grasshoppers
+72,34,70,Stem Borers
+50,28,62,Downy Mildew
+79,34,70,Earworms
+66,32,72,Aphids
+45,27,61,Birds
+68,33,73,Stem Borers
+61,32,69,Earworms
+78,34,68,Birds
+56,27,62,Downy Mildew
+80,30,64,Leafhoppers
+64,31,71,Earworms
+80,31,74,Downy Mildew
+71,32,70,Stem Borers
+48,26,64,Leafhoppers
+50,26,63,Grasshoppers
+57,29,61,Leafhoppers
+52,28,67,Birds
+52,29,66,Birds
+43,28,65,Downy Mildew
+51,25,61,Blast
+54,25,63,Birds
+75,34,74,Downy Mildew
+58,34,75,Aphids
+42,29,61,Grasshoppers
+47,27,62,Blast
+52,28,65,Grasshoppers
+57,29,68,Birds
+54,30,61,Leafhoppers
+80,31,71,Leafhoppers
+63,32,72,Downy Mildew
+75,32,74,Earworms
+51,29,66,Downy Mildew
+47,27,60,Birds
+72,33,75,Stem Borers
+56,28,61,Leafhoppers
+48,25,60,Blast
+77,30,75,Aphids
+75,34,74,Aphids
+77,34,75,Downy Mildew
+53,33,74,Downy Mildew
+78,33,71,Blast
+53,29,72,Downy Mildew
+52,31,74,Blast
+69,34,67,Blast
+55,29,63,Grasshoppers
+80,34,75,Stem Borers
+35,26,62,Blast
+73,34,73,Stem Borers
+67,34,70,Earworms
+45,30,64,Birds
+59,31,70,Leafhoppers
+75,32,64,Blast
+78,34,75,Aphids
+49,31,69,Leafhoppers
+72,30,66,Downy Mildew
+80,33,72,Stem Borers
+45,28,62,Downy Mildew
+80,34,75,Downy Mildew
+49,27,65,Leafhoppers
+66,34,73,Stem Borers
+62,34,75,Downy Mildew
+46,28,62,Downy Mildew
+37,25,62,Blast
+48,26,64,Blast
+38,27,63,Blast
+48,30,64,Birds
+41,33,65,Aphids
+45,31,69,Earworms
+49,34,74,Blast
+80,33,72,Downy Mildew
+55,33,62,Leafhoppers
+73,32,70,Stem Borers
+57,28,63,Blast
+40,28,63,Earworms
+54,28,61,Aphids
+51,28,67,Birds
+47,27,64,Blast
+76,32,65,Aphids
+74,34,74,Stem Borers
+63,27,61,Leafhoppers
+53,26,61,Leafhoppers
+45,26,60,Grasshoppers
+49,27,65,Downy Mildew
+44,29,64,Grasshoppers
+80,33,75,Leafhoppers
+44,27,64,Blast
+63,34,75,Aphids
+79,32,74,Leafhoppers
+50,27,63,Grasshoppers
+61,32,65,Birds
+45,27,60,Grasshoppers
+44,29,64,Blast
+68,31,71,Leafhoppers
+40,28,67,Blast
+55,29,65,Birds
+47,27,64,Downy Mildew
+68,32,71,Blast
+56,29,64,Leafhoppers
+36,26,63,Blast
+69,32,72,Aphids
+68,34,74,Earworms
+41,27,62,Blast
+55,28,63,Blast
+45,31,72,Blast
+50,26,63,Downy Mildew
+69,29,71,Blast
+75,34,75,Stem Borers
+77,27,70,Blast
+57,26,66,Birds
+50,26,63,Downy Mildew
+53,25,67,Birds
+41,34,73,Stem Borers
+43,30,62,Blast
+65,31,61,Blast
+48,32,63,Blast
+35,29,64,Grasshoppers
+43,29,65,Downy Mildew
+45,30,61,Blast
+36,27,61,Blast
+55,25,66,Leafhoppers
+73,34,64,Aphids
+61,30,75,Aphids
+56,28,64,Downy Mildew
+75,32,73,Leafhoppers
+46,29,74,Downy Mildew
+53,27,61,Leafhoppers
+37,27,61,Grasshoppers
+73,33,69,Stem Borers
+45,27,62,Birds
+49,26,61,Downy Mildew
+55,28,65,Downy Mildew
+40,30,70,Blast
+48,29,66,Downy Mildew
+58,33,74,Leafhoppers
+51,26,63,Leafhoppers
+72,34,70,Earworms
+72,34,74,Stem Borers
+56,30,62,Downy Mildew
+74,34,75,Aphids
+36,27,61,Blast
+76,32,70,Blast
+46,32,66,Blast
+72,32,71,Blast
+78,33,72,Stem Borers
+41,27,64,Grasshoppers
+72,29,62,Downy Mildew
+80,34,69,Blast
+74,31,61,Blast
+54,33,71,Downy Mildew
+72,27,70,Blast
+74,26,63,Aphids
+78,32,75,Downy Mildew
+50,33,70,Downy Mildew
+68,28,64,Downy Mildew
+77,34,71,Blast
+72,30,71,Birds
+76,34,75,Aphids
+74,34,74,Stem Borers
+52,29,70,Leafhoppers
+53,27,73,Leafhoppers
+46,28,64,Downy Mildew
+78,33,73,Downy Mildew
+44,32,64,Downy Mildew
+77,33,71,Aphids
+44,30,72,Blast
+74,33,72,Leafhoppers
+48,27,64,Blast
+75,32,74,Blast
+68,32,73,Aphids
+51,26,61,Leafhoppers
+79,34,73,Stem Borers
+68,32,72,Aphids
+80,34,73,Downy Mildew
+71,33,69,Stem Borers
+71,34,62,Blast
+73,33,74,Aphids
+66,34,73,Aphids
+42,27,61,Grasshoppers
+58,27,62,Blast
+47,26,62,Blast
+70,29,66,Downy Mildew
+59,30,62,Leafhoppers
+78,33,70,Stem Borers
+74,27,65,Downy Mildew
+40,29,64,Downy Mildew
+64,32,62,Grasshoppers
+55,26,61,Leafhoppers
+65,34,74,Stem Borers
+80,31,72,Blast
+78,34,73,Downy Mildew
+70,34,73,Aphids
+66,33,73,Stem Borers
+49,32,71,Blast
+48,27,62,Blast
+45,27,63,Blast
+80,34,72,Downy Mildew
+43,26,67,Blast
+46,28,65,Grasshoppers
+56,27,62,Birds
+61,34,65,Downy Mildew
+76,27,63,Blast
+69,34,74,Downy Mildew
+70,34,64,Aphids
+79,32,75,Aphids
+51,32,65,Downy Mildew
+51,26,63,Grasshoppers
+80,34,72,Earworms
+47,27,61,Blast
+40,26,63,Grasshoppers
+72,33,70,Downy Mildew
+35,26,60,Grasshoppers
+55,34,74,Stem Borers
+64,34,70,Earworms
+78,34,72,Aphids
+49,28,66,Blast
+65,28,75,Aphids
+62,34,64,Downy Mildew
+44,27,60,Blast
+64,32,72,Aphids
+50,29,62,Birds
+44,28,63,Downy Mildew
+51,32,68,Aphids
+49,28,63,Blast
+51,32,72,Downy Mildew
+73,34,75,Stem Borers
+74,31,69,Stem Borers
+77,31,72,Earworms
+76,27,66,Downy Mildew
+70,34,72,Aphids
+44,27,60,Leafhoppers
+42,27,68,Downy Mildew
+73,33,73,Earworms
+62,33,64,Leafhoppers
+48,27,64,Earworms
+52,30,70,Blast
+70,33,69,Blast
+67,34,74,Aphids
+52,32,70,Stem Borers
+80,32,70,Earworms
+69,28,73,Downy Mildew
+50,32,67,Leafhoppers
+50,26,62,Leafhoppers
+80,33,73,Aphids
+77,31,75,Stem Borers
+46,30,64,Grasshoppers
+80,34,75,Stem Borers
+74,32,70,Stem Borers
+75,32,75,Downy Mildew
+53,32,72,Blast
+61,27,70,Earworms
+54,32,69,Blast
+42,26,64,Blast
+49,25,61,Grasshoppers
+63,32,74,Earworms
+41,27,61,Leafhoppers
+80,32,71,Stem Borers
+71,33,69,Earworms
+47,28,60,Blast
+58,29,75,Leafhoppers
+75,34,73,Aphids
+51,26,63,Downy Mildew
+56,28,62,Blast
+73,32,72,Stem Borers
+76,30,69,Leafhoppers
+74,34,73,Stem Borers
+53,27,60,Leafhoppers
+78,25,71,Earworms
+52,27,62,Grasshoppers
+46,25,64,Grasshoppers
+72,32,75,Stem Borers
+68,33,75,Blast
+49,28,64,Downy Mildew
+49,31,66,Blast
+80,32,69,Leafhoppers
+47,28,64,Downy Mildew
+42,30,65,Downy Mildew
+49,27,62,Blast
+45,25,65,Birds
+47,32,67,Earworms
+67,34,69,Earworms
+51,29,70,Downy Mildew
+60,33,71,Downy Mildew
+78,31,68,Leafhoppers
+56,27,63,Grasshoppers
+65,34,72,Blast
+50,31,70,Blast
+73,33,72,Aphids
+48,32,65,Downy Mildew
+77,34,73,Blast
+58,28,73,Birds
+48,28,64,Downy Mildew
+78,33,72,Aphids
+41,30,63,Earworms
+46,26,60,Grasshoppers
+56,29,64,Birds
+50,33,74,Downy Mildew
+54,33,75,Downy Mildew
+42,29,64,Grasshoppers
+60,30,60,Grasshoppers
+54,31,64,Leafhoppers
+73,34,73,Stem Borers
+80,34,75,Downy Mildew
+69,33,62,Blast
+67,26,75,Downy Mildew
+67,33,71,Earworms
+51,28,64,Downy Mildew
+76,34,73,Aphids
+51,29,68,Leafhoppers
+43,29,66,Blast
+39,28,63,Blast
+71,32,71,Downy Mildew
+35,28,62,Grasshoppers
+46,32,71,Blast
+75,34,73,Stem Borers
+74,32,73,Earworms
+80,31,68,Leafhoppers
+73,31,75,Aphids
+47,28,62,Blast
+50,32,70,Blast
+54,33,64,Downy Mildew
+71,34,75,Stem Borers
+70,25,63,Blast
+71,31,73,Downy Mildew
+45,28,61,Grasshoppers
+47,31,70,Blast
+44,28,63,Birds
+80,33,72,Leafhoppers
+80,33,73,Stem Borers
+52,28,75,Downy Mildew
+44,27,63,Birds
+51,28,61,Blast
+70,33,70,Earworms
+73,34,71,Earworms
+43,28,67,Earworms
+47,30,71,Leafhoppers
+57,27,71,Earworms
+46,27,69,Earworms
+47,25,63,Leafhoppers
+76,32,69,Stem Borers
+65,30,72,Blast
+46,34,71,Downy Mildew
+53,26,61,Birds
+49,27,63,Leafhoppers
+72,33,70,Stem Borers
+79,34,70,Stem Borers
+78,30,71,Leafhoppers
+80,34,70,Downy Mildew
+54,28,63,Birds
+45,26,64,Blast
+50,28,63,Birds
+52,27,61,Grasshoppers
+57,27,65,Birds
+75,32,67,Stem Borers
+43,26,62,Grasshoppers
+57,32,69,Leafhoppers
+77,28,74,Aphids
+53,27,65,Birds
+45,26,69,Blast
+53,26,63,Birds
+40,30,65,Downy Mildew
+45,30,62,Birds
+39,26,64,Grasshoppers
+67,30,68,Blast
+46,27,62,Blast
+52,31,70,Birds
+73,34,74,Downy Mildew
+50,29,64,Downy Mildew
+67,33,72,Blast
+38,26,63,Grasshoppers
+73,33,72,Earworms
+80,33,72,Aphids
+52,26,62,Downy Mildew
+45,29,65,Birds
+52,28,64,Downy Mildew
+56,27,65,Birds
+69,30,69,Blast
+48,26,61,Grasshoppers
+63,27,62,Birds
+45,28,65,Downy Mildew
+48,29,63,Blast
+80,34,75,Stem Borers
+48,26,63,Blast
+59,33,72,Leafhoppers
+44,29,63,Birds
+72,31,74,Stem Borers
+50,26,61,Leafhoppers
+76,32,66,Downy Mildew
+62,32,73,Leafhoppers
+45,27,64,Birds
+43,27,62,Blast
+73,34,70,Earworms
+48,28,71,Birds
+52,29,63,Downy Mildew
+75,33,75,Stem Borers
+48,33,74,Aphids
+80,33,74,Downy Mildew
+45,26,60,Leafhoppers
+48,32,67,Downy Mildew
+57,31,74,Leafhoppers
+55,33,73,Downy Mildew
+67,34,70,Blast
+55,31,61,Leafhoppers
+80,33,74,Stem Borers
+77,34,75,Stem Borers
+71,32,75,Aphids
+71,33,73,Aphids
+75,33,75,Blast
+80,32,75,Stem Borers
+47,32,69,Birds
+72,34,75,Stem Borers
+72,34,74,Earworms
+60,26,66,Leafhoppers
+49,28,62,Birds
+78,34,75,Earworms
+41,27,60,Blast
+43,27,63,Birds
+65,32,72,Earworms
+46,28,63,Birds
+80,31,71,Leafhoppers
+43,29,65,Downy Mildew
+43,32,62,Blast
+57,28,65,Grasshoppers
+67,32,71,Leafhoppers
+48,28,74,Blast
+70,33,71,Stem Borers
+52,28,61,Blast
+70,31,72,Blast
+76,32,73,Stem Borers
+41,29,64,Downy Mildew
+55,30,71,Downy Mildew
+78,34,63,Downy Mildew
+63,34,73,Stem Borers
+76,29,65,Grasshoppers
+75,28,65,Downy Mildew
+49,28,63,Blast
+47,25,65,Grasshoppers
+52,28,63,Birds
+78,34,75,Downy Mildew
+78,33,74,Aphids
+64,34,74,Stem Borers
+75,32,73,Stem Borers
+80,32,70,Earworms
+50,28,61,Blast
+56,27,62,Downy Mildew
+46,28,64,Birds
+80,32,72,Downy Mildew
+77,32,73,Stem Borers
+78,34,69,Aphids
+67,32,72,Downy Mildew
+70,32,73,Stem Borers
+74,33,70,Earworms
+73,33,73,Downy Mildew
+70,34,75,Aphids
+51,27,72,Blast
+72,31,74,Aphids
+75,33,69,Stem Borers
+55,27,60,Grasshoppers
+78,31,71,Leafhoppers
+52,29,72,Downy Mildew
+66,31,71,Blast
+56,28,62,Leafhoppers
+50,28,66,Downy Mildew
+40,29,61,Grasshoppers
+53,26,61,Grasshoppers
+42,27,64,Birds
+73,34,67,Earworms
+73,29,75,Blast
+54,27,63,Downy Mildew
+74,34,70,Earworms
+55,33,75,Downy Mildew
+46,28,64,Blast
+47,27,60,Grasshoppers
+55,29,64,Earworms
+75,28,69,Stem Borers
+68,27,71,Aphids
+45,31,64,Downy Mildew
+61,28,63,Birds
+49,31,62,Leafhoppers
+48,34,72,Blast
+77,33,73,Downy Mildew
+56,32,74,Downy Mildew
+52,29,64,Grasshoppers
+60,32,72,Downy Mildew
+54,30,73,Blast
+44,27,64,Grasshoppers
+55,28,62,Blast
+75,33,72,Earworms
+65,34,74,Stem Borers
+76,32,64,Blast
+72,31,72,Birds
+68,33,69,Earworms
+39,33,71,Blast
+49,34,75,Blast
+76,32,73,Blast
+37,25,61,Blast
+44,27,62,Grasshoppers
+68,33,75,Downy Mildew
+48,27,64,Leafhoppers
+38,26,63,Leafhoppers
+56,28,67,Downy Mildew
+57,29,64,Downy Mildew
+36,29,63,Downy Mildew
+45,28,61,Blast
+42,27,63,Downy Mildew
+63,34,66,Earworms
+50,26,62,Leafhoppers
+62,34,74,Stem Borers
+75,34,73,Stem Borers
+74,33,71,Stem Borers
+63,27,61,Leafhoppers
+79,33,74,Aphids
+74,32,72,Earworms
+64,34,70,Downy Mildew
+50,32,63,Birds
+50,27,66,Downy Mildew
+67,34,72,Aphids
+43,27,63,Blast
+49,30,70,Blast
+69,33,65,Stem Borers
+51,28,64,Downy Mildew
+74,32,71,Aphids
+47,34,67,Downy Mildew
+55,29,62,Downy Mildew
+55,34,71,Birds
+47,33,63,Downy Mildew
+63,32,64,Blast
+69,32,69,Earworms
+52,27,61,Leafhoppers
+41,29,67,Blast
+39,31,61,Earworms
+77,31,70,Earworms
+64,30,69,Blast
+66,33,69,Earworms
+35,26,68,Blast
+76,34,70,Stem Borers
+80,31,64,Downy Mildew
+49,26,62,Birds
+68,32,72,Aphids
+59,28,66,Downy Mildew
+65,34,75,Stem Borers
+49,27,63,Birds
+76,33,71,Stem Borers
+48,26,65,Leafhoppers
+35,26,64,Grasshoppers
+56,32,72,Leafhoppers
+78,34,74,Stem Borers
+52,30,67,Birds
+61,31,68,Earworms
+77,33,72,Downy Mildew
+71,32,74,Aphids
+47,33,72,Downy Mildew
+54,28,66,Downy Mildew
+64,34,71,Earworms
+57,32,68,Leafhoppers
+80,32,73,Downy Mildew
+61,30,67,Birds
+43,29,64,Blast
+53,28,64,Grasshoppers
+45,30,63,Blast
+51,33,64,Blast
+60,31,69,Leafhoppers
+68,32,75,Blast
+47,28,63,Birds
+73,33,68,Earworms
+47,29,62,Leafhoppers
+80,34,74,Downy Mildew
+80,34,73,Downy Mildew
+55,29,65,Birds
+50,28,73,Downy Mildew
+80,33,71,Downy Mildew
+72,32,74,Aphids
+78,31,74,Aphids
+53,28,63,Blast
+37,30,61,Grasshoppers
+35,26,62,Grasshoppers
+77,32,72,Aphids
+46,26,61,Blast
+59,28,64,Grasshoppers
+71,32,73,Birds
+51,31,62,Grasshoppers
+48,28,65,Grasshoppers
+57,32,72,Leafhoppers
+55,28,64,Birds
+64,31,63,Leafhoppers
+40,27,71,Blast
+66,33,71,Stem Borers
+52,29,70,Downy Mildew
+51,27,64,Grasshoppers
+49,27,63,Grasshoppers
+42,27,60,Blast
+76,33,68,Earworms
+53,27,65,Grasshoppers
+40,28,65,Grasshoppers
+44,29,64,Downy Mildew
+60,34,71,Stem Borers
+65,34,70,Earworms
+44,27,64,Blast
+58,28,64,Grasshoppers
+80,34,72,Blast
+72,30,70,Blast
+70,26,74,Blast
+44,30,70,Earworms
+58,28,64,Downy Mildew
+68,33,68,Blast
+79,34,75,Blast
+49,27,62,Grasshoppers
+51,27,62,Grasshoppers
+55,27,62,Grasshoppers
+80,31,72,Leafhoppers
+37,27,60,Blast
+79,33,74,Earworms
+42,25,62,Downy Mildew
+55,31,71,Downy Mildew
+52,30,73,Leafhoppers
+59,27,60,Leafhoppers
+80,34,72,Leafhoppers
+45,27,65,Grasshoppers
+80,30,73,Birds
+37,28,62,Downy Mildew
+57,28,64,Downy Mildew
+47,31,64,Grasshoppers
+79,33,71,Stem Borers
+75,32,74,Blast
+60,33,64,Grasshoppers
+60,32,71,Leafhoppers
+70,34,75,Birds
+65,34,75,Downy Mildew
+70,34,73,Earworms
+74,33,74,Earworms
+67,30,74,Blast
+47,27,63,Downy Mildew
+61,34,74,Aphids
+47,28,64,Grasshoppers
+38,27,68,Grasshoppers
+74,33,72,Aphids
+55,33,68,Blast
+53,25,66,Birds
+74,33,71,Stem Borers
+78,34,70,Stem Borers
+43,26,64,Downy Mildew
+46,27,63,Grasshoppers
+45,28,65,Downy Mildew
+54,31,71,Blast
+80,34,71,Stem Borers
+38,28,64,Earworms
+62,29,64,Grasshoppers
+45,26,63,Grasshoppers
+55,28,63,Downy Mildew
+74,33,71,Earworms
+66,34,62,Downy Mildew
+70,33,72,Aphids
+60,32,69,Earworms
+73,28,69,Earworms
+65,33,68,Earworms
+70,34,73,Stem Borers
+80,33,75,Aphids
+50,27,63,Aphids
+49,34,68,Stem Borers
+76,32,64,Leafhoppers
+46,26,64,Leafhoppers
+39,28,64,Downy Mildew
+42,28,64,Birds
+46,28,68,Downy Mildew
+37,28,65,Blast
+51,31,63,Blast
+47,33,70,Blast
+43,32,72,Blast
+53,27,71,Downy Mildew
+68,31,73,Earworms
+36,27,64,Grasshoppers
+41,29,63,Downy Mildew
+50,27,64,Leafhoppers
+38,28,63,Blast
+77,27,63,Blast
+42,28,63,Downy Mildew
+42,28,67,Blast
+60,26,64,Downy Mildew
+75,34,66,Earworms
+80,26,75,Downy Mildew
+52,27,64,Downy Mildew
+40,28,61,Earworms
+45,27,64,Grasshoppers
+54,27,66,Birds
+74,29,64,Blast
+78,34,73,Stem Borers
+77,32,69,Earworms
+49,31,74,Leafhoppers
+74,33,72,Earworms
+41,28,62,Downy Mildew
+47,28,60,Blast
+54,33,75,Downy Mildew
+76,31,75,Stem Borers
+55,33,74,Aphids
+76,33,73,Stem Borers
+66,26,62,Aphids
+57,32,72,Leafhoppers
+54,25,63,Grasshoppers
+54,27,62,Downy Mildew
+47,27,67,Leafhoppers
+72,31,72,Aphids
+51,28,62,Grasshoppers
+68,33,69,Stem Borers
+76,34,75,Aphids
+78,32,75,Aphids
+55,31,73,Leafhoppers
+38,28,64,Downy Mildew
+71,32,71,Earworms
+65,32,69,Earworms
+61,33,72,Downy Mildew
+42,28,63,Downy Mildew
+44,26,61,Leafhoppers
+75,32,75,Stem Borers
+48,28,64,Birds
+47,31,71,Leafhoppers
+37,27,62,Blast
+70,32,71,Stem Borers
+46,28,64,Blast
+36,27,65,Blast
+39,29,70,Earworms
+78,33,70,Earworms
+50,28,64,Birds
+71,34,73,Aphids
+78,33,69,Earworms
+80,34,71,Stem Borers
+43,27,68,Blast
+54,27,65,Earworms
+80,33,73,Stem Borers
+68,32,70,Earworms
+47,27,72,Earworms
+78,28,69,Downy Mildew
+48,28,62,Downy Mildew
+64,30,69,Aphids
+53,32,72,Aphids
+48,27,66,Grasshoppers
+58,33,71,Downy Mildew
+75,34,71,Aphids
+35,26,60,Grasshoppers
+66,30,75,Aphids
+55,33,72,Downy Mildew
+73,26,75,Blast
+72,34,72,Stem Borers
+70,32,62,Blast
+69,33,74,Aphids
+53,28,62,Downy Mildew
+75,34,74,Stem Borers
+42,28,63,Blast
+48,28,64,Downy Mildew
+45,28,60,Blast
+76,32,65,Blast
+72,32,75,Aphids
+80,34,74,Downy Mildew
+65,28,65,Downy Mildew
+70,31,73,Aphids
+78,33,69,Leafhoppers
+35,28,63,Grasshoppers
+80,34,74,Blast
+38,27,63,Earworms
+80,34,75,Downy Mildew
+43,25,61,Leafhoppers
+50,26,64,Downy Mildew
+50,26,63,Downy Mildew
+75,34,73,Stem Borers
+45,28,64,Downy Mildew
+77,32,72,Stem Borers
+74,33,72,Stem Borers
+72,32,71,Stem Borers
+73,34,73,Stem Borers
+50,33,70,Birds
+38,28,62,Grasshoppers
+66,34,71,Earworms
+80,32,71,Blast
+44,26,60,Blast
+35,27,61,Birds
+49,25,64,Leafhoppers
+48,27,64,Stem Borers
+75,31,75,Aphids
+77,33,75,Downy Mildew
+55,28,64,Birds
+72,34,74,Stem Borers
+49,28,64,Earworms
+73,32,73,Downy Mildew
+79,28,73,Downy Mildew
+72,32,69,Aphids
+40,26,63,Blast
+53,29,65,Downy Mildew
+70,32,72,Stem Borers
+46,28,64,Grasshoppers
+35,27,61,Blast
+59,34,66,Downy Mildew
+47,34,60,Blast
+80,34,70,Downy Mildew
+70,34,65,Stem Borers
+52,26,71,Downy Mildew
+46,32,75,Downy Mildew
+50,33,72,Downy Mildew
+57,27,61,Grasshoppers
+73,33,71,Earworms
+45,27,65,Blast
+49,27,63,Downy Mildew
+49,27,60,Grasshoppers
+52,25,61,Birds
+78,32,72,Earworms
+54,27,64,Downy Mildew
+48,27,63,Blast
+64,32,68,Stem Borers
+47,31,73,Aphids
+65,32,74,Leafhoppers
+80,32,73,Leafhoppers
+44,32,71,Birds
+58,32,63,Grasshoppers
+74,33,74,Aphids
+40,27,61,Birds
+51,29,65,Downy Mildew
+71,32,75,Aphids
+73,34,74,Downy Mildew
+44,27,64,Grasshoppers
+67,33,71,Stem Borers
+49,26,65,Grasshoppers
+52,27,65,Grasshoppers
+65,33,68,Aphids
+35,28,62,Grasshoppers
+71,33,68,Stem Borers
+39,25,62,Blast
+64,30,62,Leafhoppers
+47,27,60,Blast
+54,27,61,Leafhoppers
+35,26,63,Blast
+43,29,64,Downy Mildew
+56,26,64,Leafhoppers
+38,25,64,Leafhoppers
+45,27,68,Blast
+55,27,65,Downy Mildew
+70,32,68,Downy Mildew
+52,29,67,Blast
+61,32,66,Blast
+46,33,75,Downy Mildew
+42,25,73,Blast
+47,26,66,Blast
+78,34,75,Grasshoppers
+37,26,64,Blast
+52,33,64,Earworms
+72,33,72,Stem Borers
+60,33,70,Earworms
+69,34,74,Stem Borers
+74,32,71,Stem Borers
+80,32,66,Downy Mildew
+56,29,73,Leafhoppers
+42,27,62,Blast
+38,30,63,Grasshoppers
+44,28,65,Downy Mildew
+80,34,73,Downy Mildew
+41,28,68,Downy Mildew
+42,31,70,Blast
+72,32,74,Aphids
+49,27,62,Downy Mildew
+57,31,65,Leafhoppers
+43,26,61,Blast
+54,27,66,Birds
+66,33,73,Stem Borers
+50,28,65,Downy Mildew
+51,27,60,Grasshoppers
+44,27,62,Blast
+44,27,61,Downy Mildew
+67,34,72,Stem Borers
+38,27,62,Blast
+49,30,63,Downy Mildew
+78,34,73,Stem Borers
+63,29,65,Birds
+80,34,70,Stem Borers
+46,26,62,Grasshoppers
+61,31,75,Leafhoppers
+57,28,65,Downy Mildew
+43,28,64,Blast
+77,28,63,Birds
+45,33,63,Blast
+44,26,65,Birds
+78,34,72,Aphids
+74,34,71,Earworms
+77,33,74,Earworms
+70,32,73,Blast
+65,34,68,Blast
+44,26,63,Blast
+48,26,64,Leafhoppers
+76,33,74,Aphids
+36,28,60,Blast
+76,33,69,Earworms
+48,27,62,Blast
+50,26,64,Blast
+72,34,72,Downy Mildew
+50,27,61,Birds
+56,30,70,Leafhoppers
+73,33,68,Downy Mildew
+64,28,68,Downy Mildew
+36,26,73,Blast
+48,27,64,Birds
+57,29,67,Birds
+48,33,72,Blast
+44,30,62,Grasshoppers
+80,32,73,Leafhoppers
+72,32,72,Aphids
+75,34,71,Stem Borers
+80,34,74,Stem Borers
+66,31,70,Blast
+48,29,63,Grasshoppers
+50,29,64,Birds
+61,31,66,Downy Mildew
+53,28,65,Birds
+59,32,72,Leafhoppers
+49,33,65,Blast
+58,29,64,Birds
+70,33,73,Blast
+48,28,64,Grasshoppers
+43,32,73,Downy Mildew
+41,27,73,Blast
+51,31,73,Blast
+50,32,70,Blast
+48,26,72,Birds
+47,31,71,Blast
+47,29,66,Birds
+71,33,70,Earworms
+46,30,72,Blast
+54,30,69,Blast
+75,31,60,Aphids
+40,27,63,Blast
+65,34,72,Downy Mildew
+47,28,63,Downy Mildew
+45,25,64,Downy Mildew
+40,28,65,Grasshoppers
+51,29,63,Downy Mildew
+71,27,72,Stem Borers
+38,26,61,Leafhoppers
+35,28,63,Blast
+49,28,61,Downy Mildew
+47,29,60,Blast
+45,27,64,Downy Mildew
+77,34,71,Aphids
+77,32,75,Aphids
+78,31,70,Earworms
+36,29,62,Birds
+42,34,74,Stem Borers
+49,26,61,Grasshoppers
+46,26,71,Earworms
+50,26,63,Grasshoppers
+54,32,63,Downy Mildew
+75,32,71,Earworms
+80,34,72,Downy Mildew
+41,32,67,Earworms
+78,33,67,Downy Mildew
+54,26,65,Birds
+80,29,73,Downy Mildew
+79,27,73,Stem Borers
+42,28,71,Stem Borers
+79,34,72,Downy Mildew
+68,34,74,Earworms
+75,34,74,Downy Mildew
+73,33,69,Blast
+74,33,75,Aphids
+78,33,73,Stem Borers
+77,32,73,Stem Borers
+52,26,65,Blast
+80,32,72,Stem Borers
+49,27,63,Blast
+45,27,71,Downy Mildew
+49,25,63,Leafhoppers
+40,26,61,Downy Mildew
+47,28,63,Birds
+44,27,60,Grasshoppers
+59,34,75,Downy Mildew
+48,28,71,Downy Mildew
+68,32,72,Stem Borers
+69,34,72,Earworms
+49,29,63,Downy Mildew
+56,32,64,Leafhoppers
+71,32,71,Earworms
+70,34,70,Aphids
+70,33,71,Earworms
+53,25,63,Leafhoppers
+57,32,70,Leafhoppers
+50,30,64,Downy Mildew
+47,30,64,Leafhoppers
+74,34,71,Downy Mildew
+56,28,61,Blast
+80,33,74,Stem Borers
+76,34,75,Aphids
+80,34,73,Stem Borers
+43,28,62,Grasshoppers
+38,32,64,Stem Borers
+56,25,73,Leafhoppers
+70,34,73,Stem Borers
+53,26,65,Grasshoppers
+43,25,64,Grasshoppers
+44,26,63,Grasshoppers
+73,32,70,Earworms
+49,31,72,Leafhoppers
+69,33,71,Aphids
+54,26,67,Birds
+38,26,60,Leafhoppers
+76,33,72,Aphids
+46,28,60,Grasshoppers
+46,33,72,Earworms
+46,33,69,Earworms
+79,33,74,Aphids
+74,34,71,Stem Borers
+72,34,72,Downy Mildew
+76,31,72,Aphids
+78,33,72,Earworms
+47,30,71,Blast
+71,33,73,Aphids
+60,33,66,Downy Mildew
+74,31,72,Aphids
+74,29,70,Aphids
+75,34,71,Stem Borers
+80,34,75,Aphids
+52,32,62,Birds
+51,26,64,Downy Mildew
+74,34,73,Aphids
+48,27,66,Birds
+65,33,70,Earworms
+78,31,74,Aphids
+46,34,70,Blast
+48,28,65,Grasshoppers
+44,28,61,Blast
+75,33,75,Downy Mildew
+55,30,69,Birds
+68,27,67,Blast
+49,25,60,Grasshoppers
+53,27,65,Grasshoppers
+71,31,73,Blast
+37,28,61,Blast
+41,29,60,Birds
+75,26,70,Downy Mildew
+49,26,65,Blast
+69,33,72,Stem Borers
+71,32,72,Blast
+43,25,65,Leafhoppers
+53,29,62,Downy Mildew
+73,32,74,Aphids
+51,25,68,Leafhoppers
+72,27,60,Blast
+46,29,62,Downy Mildew
+68,34,72,Aphids
+50,31,65,Downy Mildew
+77,34,72,Stem Borers
+51,27,60,Leafhoppers
+49,32,64,Earworms
+78,34,74,Blast
+69,34,71,Stem Borers
+37,27,62,Earworms
+71,34,74,Aphids
+48,29,65,Downy Mildew
+45,26,62,Blast
+47,29,66,Downy Mildew
+46,29,67,Grasshoppers
+59,31,70,Grasshoppers
+74,34,71,Stem Borers
+43,28,60,Blast
+66,28,73,Earworms
+54,29,62,Grasshoppers
+77,34,75,Stem Borers
+71,34,73,Downy Mildew
+58,29,75,Downy Mildew
+65,32,68,Aphids
+66,25,71,Stem Borers
+55,26,72,Blast
+45,26,63,Blast
+38,26,63,Leafhoppers
+35,29,60,Blast
+50,28,64,Downy Mildew
+70,31,70,Aphids
+40,26,61,Blast
+72,34,70,Earworms
+43,27,68,Grasshoppers
+47,28,65,Birds
+39,32,71,Earworms
+51,28,67,Downy Mildew
+45,30,60,Leafhoppers
+75,34,72,Aphids
+68,34,66,Aphids
+45,26,62,Blast
+49,27,63,Blast
+76,29,67,Downy Mildew
+51,29,65,Birds
+48,27,64,Blast
+57,28,65,Birds
+43,27,66,Downy Mildew
+68,32,72,Blast
+45,26,70,Blast
+80,29,74,Downy Mildew
+52,34,72,Leafhoppers
+80,33,74,Downy Mildew
+74,30,72,Blast
+80,33,75,Aphids
+76,28,63,Downy Mildew
+71,27,72,Blast
+43,28,67,Birds
+45,27,60,Grasshoppers
+73,27,70,Earworms
+43,27,61,Grasshoppers
+53,31,64,Birds
+51,28,63,Blast
+46,28,61,Leafhoppers
+38,28,60,Grasshoppers
+49,30,74,Downy Mildew
+48,27,64,Birds
+75,34,71,Blast
+50,29,62,Birds
+47,28,64,Blast
+75,32,72,Aphids
+80,32,73,Blast
+79,33,75,Downy Mildew
+75,34,75,Aphids
+46,26,64,Grasshoppers
+72,33,75,Aphids
+42,27,65,Grasshoppers
+50,27,62,Grasshoppers
+76,33,75,Downy Mildew
+61,29,71,Leafhoppers
+65,33,75,Earworms
+70,34,71,Earworms
+52,30,61,Blast
+76,33,71,Grasshoppers
+73,32,71,Stem Borers
+71,34,74,Stem Borers
+55,28,65,Downy Mildew
+57,29,68,Downy Mildew
+77,31,72,Aphids
+46,28,64,Downy Mildew
+56,33,75,Birds
+61,28,62,Leafhoppers
+80,33,72,Aphids
+68,34,75,Aphids
+40,26,64,Birds
+78,33,73,Blast
+51,32,72,Downy Mildew
+77,33,73,Downy Mildew
+52,28,63,Grasshoppers
+69,31,73,Downy Mildew
+58,33,69,Downy Mildew
+70,33,72,Downy Mildew
+54,28,64,Birds
+77,32,71,Earworms
+80,33,72,Stem Borers
+50,29,62,Earworms
+68,32,75,Stem Borers
+47,30,63,Earworms
+51,32,73,Blast
+76,33,73,Aphids
+45,28,64,Birds
+35,28,63,Blast
+47,29,63,Grasshoppers
+53,34,73,Downy Mildew
+60,29,61,Blast
+55,33,73,Downy Mildew
+80,33,75,Downy Mildew
+47,30,62,Downy Mildew
+79,31,69,Aphids
+47,34,71,Blast
+49,28,67,Downy Mildew
+79,33,74,Aphids
+61,31,68,Leafhoppers
+44,33,61,Blast
+48,26,65,Leafhoppers
+77,33,72,Stem Borers
+54,29,74,Downy Mildew
+44,28,64,Birds
+62,31,71,Leafhoppers
+80,30,74,Leafhoppers
+72,32,74,Aphids
+75,33,73,Stem Borers
+80,31,71,Leafhoppers
+54,26,60,Leafhoppers
+44,26,66,Downy Mildew
+73,29,72,Blast
+70,31,68,Earworms
+44,27,66,Blast
+45,28,60,Birds
+61,29,73,Downy Mildew
+74,33,69,Stem Borers
+46,27,64,Grasshoppers
+48,31,68,Leafhoppers
+47,27,64,Grasshoppers
+74,33,72,Aphids
+75,33,75,Stem Borers
+38,27,61,Grasshoppers
+76,33,69,Earworms
+44,28,64,Birds
+53,28,63,Grasshoppers
+44,31,70,Blast
+51,27,61,Grasshoppers
+54,33,67,Blast
+56,31,72,Earworms
+75,34,75,Blast
+39,30,66,Downy Mildew
+44,26,63,Blast
+49,27,62,Birds
+63,34,70,Earworms
+67,33,65,Stem Borers
+65,32,70,Aphids
+55,27,63,Birds
+42,29,69,Birds
+48,27,71,Birds
+75,34,72,Aphids
+51,28,64,Grasshoppers
+51,26,70,Birds
+76,29,69,Downy Mildew
+41,28,64,Blast
+49,33,65,Grasshoppers
+45,26,62,Grasshoppers
+80,33,69,Stem Borers
+44,28,71,Blast
+71,30,70,Aphids
+77,33,75,Aphids
+47,28,63,Birds
+75,33,73,Blast
+77,34,71,Downy Mildew
+76,27,74,Blast
+52,33,64,Leafhoppers
+76,31,71,Stem Borers
+41,27,61,Grasshoppers
+80,34,71,Stem Borers
+75,34,72,Stem Borers
+80,26,73,Downy Mildew
+57,32,71,Stem Borers
+64,32,69,Earworms
+48,27,66,Downy Mildew
+76,32,74,Stem Borers
+78,34,74,Downy Mildew
+50,27,66,Downy Mildew
+71,30,70,Earworms
+47,26,63,Birds
+51,29,72,Downy Mildew
+62,28,65,Blast
+59,32,65,Grasshoppers
+49,33,63,Blast
+80,31,74,Leafhoppers
+79,34,73,Stem Borers
+75,34,75,Stem Borers
+56,29,73,Downy Mildew
+47,27,62,Downy Mildew
+52,28,75,Downy Mildew
+80,32,65,Downy Mildew
+51,34,64,Blast
+61,34,73,Downy Mildew
+77,34,75,Downy Mildew
+52,29,63,Blast
+38,28,62,Grasshoppers
+72,31,73,Leafhoppers
+55,32,74,Birds
+70,32,72,Aphids
+70,34,74,Downy Mildew
+58,34,72,Earworms
+44,26,61,Grasshoppers
+74,34,75,Stem Borers
+72,33,69,Blast
+61,32,72,Stem Borers
+67,33,64,Blast
+70,34,73,Aphids
+64,29,69,Leafhoppers
+78,31,72,Stem Borers
+80,32,70,Aphids
+44,29,63,Blast
+49,27,63,Leafhoppers
+42,26,63,Blast
+60,27,63,Grasshoppers
+52,28,61,Grasshoppers
+42,26,64,Downy Mildew
+57,27,62,Birds
+75,34,74,Stem Borers
+73,34,73,Blast
+80,34,75,Downy Mildew
+44,26,73,Earworms
+80,34,75,Downy Mildew
+50,28,67,Birds
+78,34,74,Aphids
+35,29,63,Downy Mildew
+79,32,70,Aphids
+50,30,64,Aphids
+39,28,64,Blast
+78,34,72,Stem Borers
+68,34,74,Earworms
+40,27,67,Downy Mildew
+50,26,64,Leafhoppers
+80,34,74,Downy Mildew
+38,26,69,Blast
+75,32,75,Stem Borers
+43,33,74,Stem Borers
+41,26,60,Grasshoppers
+78,31,74,Stem Borers
+41,31,66,Birds
+56,32,69,Leafhoppers
+73,33,72,Blast
+40,27,62,Grasshoppers
+65,33,73,Stem Borers
+80,34,73,Earworms
+59,27,72,Birds
+49,26,71,Blast
+41,26,65,Birds
+52,28,63,Downy Mildew
+80,34,75,Aphids
+38,28,63,Blast
+49,28,63,Grasshoppers
+58,32,71,Leafhoppers
+45,28,71,Downy Mildew
+50,29,65,Downy Mildew
+64,31,68,Earworms
+76,34,71,Stem Borers
+39,31,61,Blast
+79,32,73,Blast
+56,28,65,Blast
+49,34,66,Downy Mildew
+72,34,74,Stem Borers
+44,32,66,Downy Mildew
+69,28,63,Earworms
+53,27,60,Grasshoppers
+80,34,73,Aphids
+74,33,66,Earworms
+49,26,62,Birds
+50,25,63,Blast
+40,28,61,Blast
+80,32,72,Aphids
+79,33,70,Earworms
+73,27,68,Downy Mildew
+74,33,72,Stem Borers
+77,34,71,Stem Borers
+74,31,70,Earworms
+67,34,70,Aphids
+80,33,73,Downy Mildew
+79,34,75,Downy Mildew
+51,32,69,Birds
+53,28,72,Downy Mildew
+44,29,64,Downy Mildew
+67,28,71,Earworms
+38,26,63,Grasshoppers
+79,33,73,Stem Borers
+50,29,61,Blast
+80,32,72,Leafhoppers
+46,27,65,Blast
+80,31,70,Leafhoppers
+43,34,71,Stem Borers
+47,27,65,Blast
+51,34,67,Earworms
+55,34,64,Downy Mildew
+45,27,61,Blast
+52,27,71,Blast
+45,28,65,Birds
+56,28,65,Birds
+80,34,69,Earworms
+78,33,70,Earworms
+67,27,62,Blast
+77,31,73,Aphids
+55,32,65,Birds
+46,29,62,Downy Mildew
+52,32,71,Downy Mildew
+79,32,72,Earworms
+62,31,60,Leafhoppers
+79,32,73,Aphids
+58,31,68,Blast
+47,32,71,Earworms
+73,33,70,Stem Borers
+69,32,64,Earworms
+48,32,63,Blast
+42,28,60,Birds
+80,33,74,Downy Mildew
+74,32,73,Aphids
+49,27,69,Aphids
+47,27,65,Downy Mildew
+80,34,73,Downy Mildew
+70,32,72,Aphids
+72,33,68,Earworms
+44,27,71,Downy Mildew
+71,31,73,Aphids
+51,28,63,Grasshoppers
+80,29,72,Leafhoppers
+56,28,74,Downy Mildew
+77,34,74,Aphids
+51,28,61,Grasshoppers
+35,27,65,Grasshoppers
+39,28,63,Blast
+77,33,74,Aphids
+80,33,71,Earworms
+41,27,60,Blast
+71,34,73,Earworms
+54,27,64,Downy Mildew
+67,34,74,Stem Borers
+58,32,62,Birds
+41,27,66,Stem Borers
+55,28,63,Grasshoppers
+51,27,64,Birds
+56,29,73,Leafhoppers
+51,28,64,Grasshoppers
+77,33,75,Stem Borers
+39,29,60,Grasshoppers
+41,28,64,Blast
+80,34,73,Aphids
+71,34,72,Earworms
+50,26,75,Downy Mildew
+45,30,64,Earworms
+46,27,63,Birds
+53,28,63,Grasshoppers
+75,34,70,Stem Borers
+46,26,65,Blast
+73,33,63,Blast
+39,28,64,Downy Mildew
+46,28,65,Grasshoppers
+44,28,62,Birds
+68,28,70,Downy Mildew
+57,27,65,Birds
+47,33,72,Earworms
